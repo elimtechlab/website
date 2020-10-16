@@ -18,7 +18,7 @@
     }
     
     div.desc {
-      padding: 15px;
+      padding: 5px;
       text-align: center;
     }
     </style>
