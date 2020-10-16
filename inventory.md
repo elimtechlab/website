@@ -27,7 +27,7 @@
 		containerId: 'juicebox-container',
 		galleryWidth: '700',
 		galleryHeight: '700',
-		backgroundColor: 'rgba(34,34,34,1)'
+		backgroundColor: 'rgba(34,34,34,.5)'
 	});
 	</script>
 	<div id="juicebox-container"></div>
