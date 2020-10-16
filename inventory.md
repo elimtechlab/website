@@ -17,10 +17,10 @@
     div.desc {
       padding: 15px;
       text-align: center;
-    }
+    }    
     </style>
     </head>
-    <body>
+      <body>
     <h2><i>Devices are available for long-term checkout upon request.</i></h2>
     <br>
     <div class="gallery">
