@@ -1,4 +1,4 @@
-### Check here for news and updates regarding the Elim Tech Lab!
+## Check here for news and updates regarding the Elim Tech Lab!
 
 Check out our recent 15 minute tutorial on how to become a better troubleshooter!
 
