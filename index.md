@@ -5,6 +5,8 @@ Check out our recent 15 minute tutorial on how to become a better troubleshooter
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hSEcb6cYW90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[Troubleshooting Handout](files/"Troubleshooting Handout.pdf")
+
 
 
 <!-- **Website**| **Username**| **Password** |
