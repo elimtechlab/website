@@ -1,7 +1,9 @@
 ## Check here for news and updates regarding the Elim Tech Lab!
 
-# Resources For Staff
-| Website       | Username      | Password  |
+### Resources For Staff
+
+
+| Website       | Username      |    d  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
