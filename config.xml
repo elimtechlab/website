@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="false"
+	galleryTitle="Inventory"
+	indexPageName="inventory.md"
+
+>
+  <image imageURL="images/bigred.jpg"
+	thumbURL="thumbs/bigred.jpg"
+	linkURL="images/bigred.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\bigred.jpg">
+    <title><![CDATA[bigred]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blue2.jpg"
+	thumbURL="thumbs/blue2.jpg"
+	linkURL="images/blue2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\blue2.jpg">
+    <title><![CDATA[blue2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/buddybutton.jpg"
+	thumbURL="thumbs/buddybutton.jpg"
+	linkURL="images/buddybutton.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\buddybutton.jpg">
+    <title><![CDATA[buddybutton]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jellybeamer.jpg"
+	thumbURL="thumbs/jellybeamer.jpg"
+	linkURL="images/jellybeamer.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\jellybeamer.jpg">
+    <title><![CDATA[jellybeamer]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jellybean.jpg"
+	thumbURL="thumbs/jellybean.jpg"
+	linkURL="images/jellybean.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\jellybean.jpg">
+    <title><![CDATA[jellybean]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pouringcups.jpg"
+	thumbURL="thumbs/pouringcups.jpg"
+	linkURL="images/pouringcups.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\pouringcups.jpg">
+    <title><![CDATA[pouringcups]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/powerlink4.jpg"
+	thumbURL="thumbs/powerlink4.jpg"
+	linkURL="images/powerlink4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\powerlink4.jpg">
+    <title><![CDATA[powerlink4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scissors.jpg"
+	thumbURL="thumbs/scissors.jpg"
+	linkURL="images/scissors.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\scissors.jpg">
+    <title><![CDATA[scissors]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/skoog.jpg"
+	thumbURL="thumbs/skoog.jpg"
+	linkURL="images/skoog.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\skoog.jpg">
+    <title><![CDATA[skoog]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/specs.jpg"
+	thumbURL="thumbs/specs.jpg"
+	linkURL="images/specs.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\specs.jpg">
+    <title><![CDATA[specs]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
