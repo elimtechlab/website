@@ -9,5 +9,4 @@ Check out our recent 15 minute tutorial on how to become a better troubleshooter
  zebra stripes | are neat      |    $1 -->
 
 
- Also, check out our 15 minutes introduction to material construction and design!
- 
+ Also, check out our 15 minute introduction to material construction and design!
