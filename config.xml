@@ -8,9 +8,9 @@
 	useFullscreenExpand="true"
 	maxImageWidth="650"
 	maxImageHeight="1000"
-	showThumbsButton="false"
-	galleryWidth="100"
-	galleryHeight="100"
+	showThumbsButton="true"
+	galleryWidth="700"
+	galleryHeight="700"
 	showExpandButton="false"
 	useThumbDots="true"
 
