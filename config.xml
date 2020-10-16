@@ -16,6 +16,7 @@
 	showOpenButton="false"
 	backgroundColor="rgba(34,34,34,.5)"
 	textColor="rgba(0,0,0,1)"
+	captionPosition="BOTTOM"
 
 >
   <image imageURL="images/jellybean.jpg"
