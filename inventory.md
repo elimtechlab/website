@@ -24,7 +24,8 @@
     </style>
     </head>
     <body>
-    
+    <h2>*Devices are available for long-term checkout upon request.* </h2>
+    <br>
     <div class="gallery">
       <a target="_blank" href="files/inventory/jellybean.jpg">
         <img src="files/inventory/jellybean.jpg" alt="Jelly Bean" width="600" height="400">
