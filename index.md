@@ -9,10 +9,14 @@ Check out our recent 15 minute tutorial on how to become a better troubleshooter
  col 3 is      | right-aligned | $1600 
  col 2 is      | centered      |   $12 
 <<<<<<< HEAD
+<<<<<<< HEAD
  zebra stripes | are neat      |    $1 -->
 
 
  Also, check out our 15 minute introduction to material construction and design!
+=======
+ zebra stripes | are neat      |    $1 -->
+>>>>>>> parent of b353af7... change
 =======
  zebra stripes | are neat      |    $1 -->
 >>>>>>> parent of b353af7... change
