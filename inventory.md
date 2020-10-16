@@ -63,17 +63,28 @@
         <div class="desc">With a 1 3/8-in activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
       </div>
     <div class="gallery">
-        <a target="_blank" href="files/inventory/specs.jpg">
-          <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
+        <a target="_blank" href="files/inventory/powerlink4.jpg">
+          <img src="files/inventory/powerlink4.jpg" alt="Powerlink 4" width="600" height="400">
         </a>
-        <div class="desc">With a 1 3/8-in activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
+        <div class="desc">AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface.</div>
       </div>
     <div class="gallery">
-        <a target="_blank" href="files/inventory/specs.jpg">
-          <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
+        <a target="_blank" href="files/inventory/skoog.jpg">
+          <img src="files/inventory/skoog.jpg" alt="Skoog" width="600" height="400">
         </a>
-        <div class="desc">With a 1 3/8-in/3.5-cm activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
+        <div class="desc">The Skoog is a customizable electronic musical instrument that has been designed to be inclusive and accessible – especially to those unable to play conventional musical instruments.</div>
       </div>
-
+    <div class="gallery">
+        <a target="_blank" href="files/inventory/scissors.jpg">
+          <img src="files/inventory/scissors.jpg" alt="Scissors" width="600" height="400">
+        </a>
+        <div class="desc">These easy-to-use switch adapted scissors make class participation and craft activities possible.</div>
+      </div>
+    <div class="gallery">
+        <a target="_blank" href="files/inventory/pouringcups.jpg">
+          <img src="files/inventory/pouringcups.jpg" alt="Pouring Cups" width="600" height="400">
+        </a>
+        <div class="desc">Mix it up with a switch-activated pouring cup that allows users to participate in cooking classes or dramatic play.</div>
+      </div>
     </body>
     </html> 
