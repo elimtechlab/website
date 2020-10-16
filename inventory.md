@@ -32,12 +32,6 @@
       <div class="desc">The Jelly Bean switch features a 2.5-in/6.4-cm activation surface and is recommended for users who are able to access a smaller target area.</div>
     </div>
     <div class="gallery">
-        <a target="_blank" href="files/inventory/specs.jpg">
-          <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
-        </a>
-        <div class="desc">With a 1 3/8-in/3.5-cm activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
-      </div>
-    <div class="gallery">
        <a target="_blank" href="files/inventory/blue2.jpg">
          <img src="files/inventory/blue2.jpg" alt="Blue 2" width="600" height="400">
        </a>
@@ -61,7 +55,12 @@
         </a>
         <div class="desc">The Buddy Button is a durable and reliable single switch that requires only the slightest touch of its 2.5-in/6.4-cm surface for activation.</div>
       </div>
-
+    <div class="gallery">
+        <a target="_blank" href="files/inventory/specs.jpg">
+          <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
+        </a>
+        <div class="desc">With a 1 3/8-in/3.5-cm activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
+      </div>
     
     </body>
     </html> 
