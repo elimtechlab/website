@@ -5,6 +5,10 @@
 	cropToFit="false"
 	galleryTitle="Inventory"
 	indexPageName="inventory.md"
+	useFullscreenExpand="true"
+	maxImageWidth="600"
+	maxImageHeight="400"
+	showThumbsButton="false"
 
 >
   <image imageURL="images/bigred.jpg"
