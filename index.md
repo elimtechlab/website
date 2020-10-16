@@ -1,4 +1,4 @@
-# News and updates about Technology at Elim!
+## News and updates about Technology at Elim!
 
 Check out our recent 15 minute tutorial on how to become a better troubleshooter!
 
