@@ -39,7 +39,7 @@
         <a target="_blank" href="files/inventory/buddybutton.jpg">
           <img src="files/inventory/buddybutton.jpg" alt="Buddy Button" width="600" height="400">
         </a>
-        <div class="desc">The Buddy Button is a durable and reliable single switch that requires only the slightest touch of its 2.5-in/6.4-cm surface for activation.</div>
+        <div class="desc">The Buddy Button is a durable and reliable single switch that requires only the slightest touch of its 2.5-in surface for activation.</div>
       </div>
      <div class="gallery">
         <a target="_blank" href="files/inventory/jellybeamer.jpg">
@@ -51,7 +51,7 @@
         <a target="_blank" href="files/inventory/bigred.jpg">
           <img src="files/inventory/bigred.jpg" alt="Big Red" width="600" height="400">
         </a>
-        <div class="desc">The Big Red switch provides a large 5-in activation surface that activates with 5.5-oz/156-g of force.</div>
+        <div class="desc">The Big Red switch provides a large 5-in activation surface that activates with 5.5-oz of force.</div>
       </div>
     <div class="gallery">
         <a target="_blank" href="files/inventory/specs.jpg">
@@ -63,7 +63,7 @@
         <a target="_blank" href="files/inventory/powerlink4.jpg">
           <img src="files/inventory/powerlink4.jpg" alt="Powerlink 4" width="600" height="400">
         </a>
-        <div class="desc">AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface.</div>
+        <div class="desc">AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface</div>
       </div>
     <div class="gallery">
         <a target="_blank" href="files/inventory/skoog.jpg">
