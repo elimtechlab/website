@@ -2,8 +2,8 @@
     <head>
     <style>
     div.gallery {
-      margin: 2px;
-      border: 4px solid #ccc;
+      margin: 5px;
+      border: 1px solid #ccc;
       float: left;
       width: 150px;
     /*}
@@ -15,7 +15,7 @@
       height: auto;
     }
     div.desc {
-      padding: 1px;
+      padding: 15px;
       text-align: center;
     }
     </style>
