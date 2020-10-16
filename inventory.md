@@ -2,10 +2,10 @@
     <head>
     <style>
     div.gallery {
-      margin: 5px;
+      margin: 2px;
       border: 4px solid #ccc;
       float: left;
-      width: 180px;
+      width: 150px;
     /*}
       div.gallery:hover {
       border: 1px solid #777;
