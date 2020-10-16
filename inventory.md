@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Inventory</title>
@@ -26,8 +25,8 @@
 	<script>
 	new juicebox({
 		containerId: 'juicebox-container',
-		galleryWidth: '100%',
-		galleryHeight: '100%',
+		galleryWidth: '50',
+		galleryHeight: '50',
 		backgroundColor: 'rgba(34,34,34,1)'
 	});
 	</script>

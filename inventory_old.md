@@ -63,7 +63,7 @@
         <a target="_blank" href="files/inventory/powerlink4.jpg">
           <img src="files/inventory/powerlink4.jpg" alt="Powerlink 4" width="600" height="400">
         </a>
-        <div class="desc">AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface</div>
+        <div class="desc">AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface.</div>
       </div>
     <div class="gallery">
         <a target="_blank" href="files/inventory/skoog.jpg">
