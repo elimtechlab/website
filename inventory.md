@@ -24,7 +24,7 @@
     </style>
     </head>
     <body>
-    ## <i>Devices are available for long-term checkout upon request.</i>
+    <h2><i>Devices are available for long-term checkout upon request.</i></h2>
     <br>
     <div class="gallery">
       <a target="_blank" href="files/inventory/jellybean.jpg">
@@ -56,7 +56,6 @@
         </a>
         <div class="desc">The Buddy Button is a durable and reliable single switch that requires only the slightest touch of its 2.5-in/6.4-cm surface for activation.</div>
       </div>
-    </div>
     <div class="gallery">
         <a target="_blank" href="files/inventory/specs.jpg">
           <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
