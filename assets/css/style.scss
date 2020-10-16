@@ -3,17 +3,21 @@
 
 @import "{{ site.theme }}";
 
-/*h1 {font-family:"Segoe UI",Arial,sans-serif;
+h1 {font-family:"Segoe UI",Arial;
                     font-weight:400;
                     margin:10px 0; 
                     text-align: center;}
+h2 {font-family:"Segoe UI",Arial;
+                   font-weight:200;
+                   margin:10px 0; 
+                   text-align: center;}
 
 p {
     color: black;
     font-size: 1.5em;
     text-align: center;
 }
-*/
+
 /* Fileshare Button */
 .button1 {
     border: none;
@@ -22,8 +26,8 @@ p {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 18px;
-    margin: 4px 2px;
+    font-size: 12px;
+    margin: 2px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
   }
@@ -31,10 +35,10 @@ p {
   .button1 {
     background-color: white; 
     color: black; 
-    border: 2px solid #1E90FF;
+    border: 2px solid #327ace;
   }
   
   .button1:hover {
-    background-color: #1E90FF;
+    background-color: #327ace;
     color: white;
   }
