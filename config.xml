@@ -6,11 +6,13 @@
 	galleryTitle="Inventory"
 	indexPageName="inventory.md"
 	useFullscreenExpand="true"
-	maxImageWidth="600"
-	maxImageHeight="400"
+	maxImageWidth="650"
+	maxImageHeight="1000"
 	showThumbsButton="false"
-	galleryWidth="50"
-	galleryHeight="50"
+	galleryWidth="100"
+	galleryHeight="100"
+	showExpandButton="false"
+	useThumbDots="true"
 
 >
   <image imageURL="images/jellybean.jpg"

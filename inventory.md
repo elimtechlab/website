@@ -25,8 +25,8 @@
 	<script>
 	new juicebox({
 		containerId: 'juicebox-container',
-		galleryWidth: '50',
-		galleryHeight: '50',
+		galleryWidth: '100',
+		galleryHeight: '100',
 		backgroundColor: 'rgba(34,34,34,1)'
 	});
 	</script>
