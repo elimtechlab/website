@@ -1,26 +1,3 @@
-<html>
-    <head>
-    <style>
-    div.gallery {
-      margin: 5px;
-      border: 1px solid #ccc;
-      float: left;
-      width: 150px;
-    /*}
-      div.gallery:hover {
-      border: 1px solid #777;
-    }*/
-    div.gallery img {
-      width: 100%;
-      height: auto;
-    }
-    div.desc {
-      padding: 15px;
-      text-align: center;
-    }    
-    </style>
-    </head>
-      <body>
     <h2><i>Devices are available for long-term checkout upon request.</i></h2>
     <br>
     <div class="gallery">
@@ -83,5 +60,3 @@
         </a>
         <div class="desc">Mix it up with a switch-activated pouring cup that allows users to participate in cooking classes or dramatic play.</div>
       </div>
-    </body>
-    </html> 
