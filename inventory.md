@@ -2,8 +2,8 @@
     <head>
     <style>
     div.gallery {
-      margin: 8px;
-      border: 2px solid #ccc;
+      margin: 5px;
+      border: 4px solid #ccc;
       float: left;
       width: 180px;
     }
@@ -31,32 +31,30 @@
       </a>
       <div class="desc">The Jelly Bean switch features a 2.5-in/6.4-cm activation surface and is recommended for users who are able to access a smaller target area.</div>
     </div>
-    
     <div class="gallery">
         <a target="_blank" href="files/inventory/specs.jpg">
           <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
         </a>
         <div class="desc">With a 1 3/8-in/3.5-cm activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
       </div>
-    
-     <div class="gallery">
+    <div class="gallery">
        <a target="_blank" href="files/inventory/blue2.jpg">
          <img src="files/inventory/blue2.jpg" alt="Blue 2" width="600" height="400">
        </a>
        <div class="desc">Blue2 allows you to quickly and easily connect one or two accessibility switches to your device via a Bluetooth connection.</div>
      </div>
-     <div class="gallery">
+    <div class="gallery">
         <a target="_blank" href="files/inventory/bigred.jpg">
           <img src="files/inventory/bigred.jpg" alt="Big Red" width="600" height="400">
         </a>
         <div class="desc">The Big Red switch provides a large 5-in/12.7-cm activation surface that activates with 5.5-oz/156-g of force.</div>
       </div>
-      <div class="gallery">
+    <div class="gallery">
         <a target="_blank" href="files/inventory/jellybeamer.jpg">
           <img src="files/inventory/jellybeamer.jpg" alt="Jelly Beamer" width="600" height="400">
         </a>
         <div class="desc">The Jelly Beamer Twist Transmitter is a wireless switch that brings reliable, immediate switch access without the hassle of cords.</div>
-      </div>
+    </div>
       <div class="gallery">
         <a target="_blank" href="files/inventory/buddybutton.jpg">
           <img src="files/inventory/buddybutton.jpg" alt="Buddy Button" width="600" height="400">
