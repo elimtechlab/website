@@ -30,7 +30,7 @@
       <a target="_blank" href="files/inventory/jellybean.jpg">
         <img src="files/inventory/jellybean.jpg" alt="Jelly Bean" width="600" height="400">
       </a>
-      <div class="desc">The Jelly Bean switch features a 2.5-in/6.4-cm activation surface and is recommended for users who are able to access a smaller target area.</div>
+      <div class="desc">The Jelly Bean switch features a 2.5-in activation surface and is recommended for users who are able to access a smaller target area.</div>
     </div>
     <div class="gallery">
        <a target="_blank" href="files/inventory/blue2.jpg">
@@ -42,7 +42,7 @@
         <a target="_blank" href="files/inventory/bigred.jpg">
           <img src="files/inventory/bigred.jpg" alt="Big Red" width="600" height="400">
         </a>
-        <div class="desc">The Big Red switch provides a large 5-in/12.7-cm activation surface that activates with 5.5-oz/156-g of force.</div>
+        <div class="desc">The Big Red switch provides a large 5-in activation surface that activates with 5.5-oz/156-g of force.</div>
       </div>
     <div class="gallery">
         <a target="_blank" href="files/inventory/jellybeamer.jpg">
@@ -60,8 +60,20 @@
         <a target="_blank" href="files/inventory/specs.jpg">
           <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
         </a>
+        <div class="desc">With a 1 3/8-in activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
+      </div>
+    <div class="gallery">
+        <a target="_blank" href="files/inventory/specs.jpg">
+          <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
+        </a>
+        <div class="desc">With a 1 3/8-in activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
+      </div>
+    <div class="gallery">
+        <a target="_blank" href="files/inventory/specs.jpg">
+          <img src="files/inventory/specs.jpg" alt="Specs Switch" width="600" height="400">
+        </a>
         <div class="desc">With a 1 3/8-in/3.5-cm activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.</div>
       </div>
-    
+
     </body>
     </html> 
