@@ -6,19 +6,16 @@
       border: 4px solid #ccc;
       float: left;
       width: 180px;
-    }
-    
-  /*  div.gallery:hover {
+    /*}
+      div.gallery:hover {
       border: 1px solid #777;
-    }
-  */  
+    }*/
     div.gallery img {
       width: 100%;
       height: auto;
     }
-    
     div.desc {
-      padding: 10px;
+      padding: 1px;
       text-align: center;
     }
     </style>
@@ -38,23 +35,23 @@
        </a>
        <div class="desc">Blue2 allows you to quickly and easily connect one or two accessibility switches to your device via a Bluetooth connection.</div>
      </div>
-    <div class="gallery">
-        <a target="_blank" href="files/inventory/bigred.jpg">
-          <img src="files/inventory/bigred.jpg" alt="Big Red" width="600" height="400">
-        </a>
-        <div class="desc">The Big Red switch provides a large 5-in activation surface that activates with 5.5-oz/156-g of force.</div>
-      </div>
-    <div class="gallery">
-        <a target="_blank" href="files/inventory/jellybeamer.jpg">
-          <img src="files/inventory/jellybeamer.jpg" alt="Jelly Beamer" width="600" height="400">
-        </a>
-        <div class="desc">The Jelly Beamer Twist Transmitter is a wireless switch that brings reliable, immediate switch access without the hassle of cords.</div>
-    </div>
-      <div class="gallery">
+       <div class="gallery">
         <a target="_blank" href="files/inventory/buddybutton.jpg">
           <img src="files/inventory/buddybutton.jpg" alt="Buddy Button" width="600" height="400">
         </a>
         <div class="desc">The Buddy Button is a durable and reliable single switch that requires only the slightest touch of its 2.5-in/6.4-cm surface for activation.</div>
+      </div>
+     <div class="gallery">
+        <a target="_blank" href="files/inventory/jellybeamer.jpg">
+          <img src="files/inventory/jellybeamer.jpg" alt="Jelly Beamer" width="600" height="400">
+        </a>
+        <div class="desc">The Jelly Beamer Twist Transmitter is a wireless switch that brings reliable, immediate switch access without the hassle of cords.</div>
+    </div> 
+  <div class="gallery">
+        <a target="_blank" href="files/inventory/bigred.jpg">
+          <img src="files/inventory/bigred.jpg" alt="Big Red" width="600" height="400">
+        </a>
+        <div class="desc">The Big Red switch provides a large 5-in activation surface that activates with 5.5-oz/156-g of force.</div>
       </div>
     <div class="gallery">
         <a target="_blank" href="files/inventory/specs.jpg">
