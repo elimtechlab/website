@@ -2,14 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-    width: 40em;
-    margin: auto;
-    font-family:"Segoe UI",Arial,sans-serif;
-    padding: 20px 50px 25px;
-    border: 10px solid #cc803d;
- }
-
 h1 {font-family:"Segoe UI",Arial,sans-serif;
                     font-weight:400;
                     margin:10px 0; 
