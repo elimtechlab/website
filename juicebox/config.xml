@@ -12,7 +12,7 @@
 	galleryWidth="700"
 	galleryHeight="700"
 	showExpandButton="true"
-	useThumbDots="true"
+	useThumbDots="false"
 	showOpenButton="false"
 	backgroundColor="rgba(34,34,34,.5)"
 	textColor="rgba(0,0,0,1)"
