@@ -15,7 +15,7 @@ p {
     font-size: 1.25em;
     text-align: center;
 }
-/* Fileshare Button */
+/* Navigation Buttons */
 .button1 {
     border: none;
     color: white;
@@ -39,3 +39,55 @@ p {
     background-color: #327ace;
     color: white;
   }
+
+
+/*	Username & Password TABLE	*/
+#LINKTABLE {
+	font-family:"Segoe UI",Arial,sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#LINKTABLE td, #LINKTABLE th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#LINKTABLE tr:nth-child(even){background-color: #f2f2f2;}
+#LINKTABLE tr:hover {background-color: #ddd;}
+
+#LINKTABLE th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #80c0c7;
+  color: #1E2C33;
+}
+
+/* TOOLTIPS */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
