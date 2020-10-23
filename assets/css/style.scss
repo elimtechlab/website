@@ -45,7 +45,9 @@ p {
 #LINKTABLE {
 	font-family:"Segoe UI",Arial,sans-serif;
 	border-collapse: collapse;
-	width: 100%;
+  width: 100%;
+  font-size: 16px;
+  color: black;
 }
 
 #LINKTABLE td, #LINKTABLE th {
@@ -59,8 +61,8 @@ p {
 #LINKTABLE th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
-  background-color: #80c0c7;
+  text-align: center;
+  background-color: #327ace;
   color: #1E2C33;
 }
 
