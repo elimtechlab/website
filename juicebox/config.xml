@@ -22,7 +22,7 @@
 	thumbURL="thumbs/jellybean.jpg"
 	linkURL="images/jellybean.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\jellybean.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\jellybean.jpg">
     <title><![CDATA[Jelly Bean]]></title>
     <caption><![CDATA[The Jelly Bean switch features a 2.5-in activation surface and is recommended for users who are able to access a smaller target area.]]></caption>
   </image>
@@ -30,7 +30,7 @@
 	thumbURL="thumbs/blue2.jpg"
 	linkURL="images/blue2.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\blue2.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\blue2.jpg">
     <title><![CDATA[Blue2]]></title>
     <caption><![CDATA[Blue2 allows you to quickly and easily connect one or two accessibility switches to your device via a Bluetooth connection.]]></caption>
   </image>
@@ -38,7 +38,7 @@
 	thumbURL="thumbs/buddybutton.jpg"
 	linkURL="images/buddybutton.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\buddybutton.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\buddybutton.jpg">
     <title><![CDATA[Buddy Button]]></title>
     <caption><![CDATA[The Buddy Button is a durable and reliable single switch that requires only the slightest touch of its 2.5-in surface for activation.]]></caption>
   </image>
@@ -46,7 +46,7 @@
 	thumbURL="thumbs/jellybeamer.jpg"
 	linkURL="images/jellybeamer.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\jellybeamer.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\jellybeamer.jpg">
     <title><![CDATA[Jelly Beamer]]></title>
     <caption><![CDATA[The Jelly Beamer Twist Transmitter is a wireless switch that brings reliable, immediate switch access without the hassle of cords.]]></caption>
   </image>
@@ -54,7 +54,7 @@
 	thumbURL="thumbs/pouringcups.jpg"
 	linkURL="images/pouringcups.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\pouringcups.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\pouringcups.jpg">
     <title><![CDATA[Pouring Cups]]></title>
     <caption><![CDATA[Mix it up with a switch-activated pouring cup that allows users to participate in cooking classes or dramatic play.]]></caption>
   </image>
@@ -62,7 +62,7 @@
 	thumbURL="thumbs/powerlink4.jpg"
 	linkURL="images/powerlink4.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\powerlink4.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\powerlink4.jpg">
     <title><![CDATA[Powerlink 4]]></title>
     <caption><![CDATA[AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface.]]></caption>
   </image>
@@ -70,7 +70,7 @@
 	thumbURL="thumbs/scissors.jpg"
 	linkURL="images/scissors.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\scissors.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\scissors.jpg">
     <title><![CDATA[Adaptive Scissors]]></title>
     <caption><![CDATA[These easy-to-use switch adapted scissors make class participation and craft activities possible.]]></caption>
   </image>
@@ -78,7 +78,7 @@
 	thumbURL="thumbs/skoog.jpg"
 	linkURL="images/skoog.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\skoog.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\skoog.jpg">
     <title><![CDATA[Skoog]]></title>
     <caption><![CDATA[The Skoog is a customizable electronic musical instrument that has been designed to be inclusive and accessible – especially to those unable to play conventional musical instruments.]]></caption>
   </image>
@@ -86,7 +86,7 @@
 	thumbURL="thumbs/specs.jpg"
 	linkURL="images/specs.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\specs.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\specs.jpg">
     <title><![CDATA[Specs Switches]]></title>
     <caption><![CDATA[With a 1 3/8-in activation surface, the Specs switch is small enough to be worn, but is most often used as a mounted switch.]]></caption>
   </image>
@@ -94,8 +94,16 @@
 	thumbURL="thumbs/bigred.jpg"
 	linkURL="images/bigred.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Owner\Documents\GitHub\website\files\inventory\bigred.jpg">
+	sourcePath="C:\Users\anthony.stafford\Documents\GitHub\website\juicebox\images\bigred.jpg">
     <title><![CDATA[Big Red]]></title>
     <caption><![CDATA[The Big Red switch provides a large 5-in activation surface that activates with 5.5-oz of force.]]></caption>
+  </image>
+  <image imageURL="images/switchinterface.jpg"
+	thumbURL="thumbs/switchinterface.jpg"
+	linkURL="images/switchinterface.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\anthony.stafford\Downloads\switchinterface.jpg">
+    <title><![CDATA[switchinterface]]></title>
+    <caption><![CDATA[The Switch Interface Pro 6.0 supports the connection of up to 5 switches to a PC or Mac. Four pre-programmed switch configurations, selectable using the toggle on the device.]]></caption>
   </image>
 </juiceboxgallery>
