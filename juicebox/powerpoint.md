@@ -1,5 +1,6 @@
 ---
 title: Powerpoint Books
+filename: powerpoint.md
 layout: default
 --- 
 ## This page will help you get started using Powerpoint to make adapted books. 
