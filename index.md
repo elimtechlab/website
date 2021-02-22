@@ -2,8 +2,10 @@
 layout: default
 filename: index.md
 --- 
-Looking to make useful materials to help our students thrive, both during remote and in-person learning? Check out our new page on how to [create digital books using PowerPoint!](https://elimtechlab.com/powerpoint.html)
+<a href="https://elimcs-my.sharepoint.com/:x:/g/personal/kelly_russell_elimcs_org/EYcxYsmF18NFg9SD5nX40VsBWOcE1f_SeiOGe3PMsd807g?e=eXqYfB"><button class="button button1">Materials Sign Up</button></a>
+<br>
 <hr>
+<br>
 <p>Become a better troubleshooter in 15 minutes!</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hSEcb6cYW90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
