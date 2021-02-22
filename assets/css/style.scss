@@ -39,6 +39,17 @@ p {
     color: white;
   }
 
+ .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #327ace;
+    size: 10px;
+  }
+  
+ .button2:hover {
+    background-color: #327ace;
+    color: white;
+  }
 
 /*	Username & Password TABLE	*/
 #LINKTABLE {
