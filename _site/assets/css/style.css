@@ -392,7 +392,7 @@ h1 { font-family: Arial, Helvetica, sans-serif; font-size: 1.0em; text-align: ce
 
 h2 { font-family: Arial, Helvetica, sans-serif; font-size: 1.75em; margin: 10px 0; text-align: center; }
 
-p { color: black; font-size: 1.25em; text-align: left; }
+p { color: black; font-size: 1.25em; text-align: center; }
 
 /* Navigation Buttons */
 .button1 { border: none; color: white; padding: 8px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 2px 2px; transition-duration: 0.4s; cursor: pointer; }
