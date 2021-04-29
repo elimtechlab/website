@@ -344,7 +344,7 @@ blockquote { padding: 0 0 0 30px; margin-bottom: 20px; font-size: 15px; border-l
 
 ul { list-style-position: inside; list-style: disc; padding-left: 20px; }
 
-ol { list-style-position: inside; list-style: decimal; padding-left: 3px; }
+ol { list-style-position: inside; list-style: decimal; padding-left: 20px; }
 
 dl dd { font-style: italic; font-weight: 100; }
 
@@ -392,7 +392,7 @@ h1 { font-family: Arial, Helvetica, sans-serif; font-size: 1.0em; text-align: ce
 
 h2 { font-family: Arial, Helvetica, sans-serif; font-size: 1.75em; margin: 10px 0; text-align: center; }
 
-p { color: black; font-size: 1.25em; text-align: center; }
+p { color: black; font-size: 1.5em; text-align: left; }
 
 /* Navigation Buttons */
 .button1 { border: none; color: white; padding: 8px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 2px 2px; transition-duration: 0.4s; cursor: pointer; }
