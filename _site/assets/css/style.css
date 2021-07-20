@@ -309,19 +309,19 @@ td { font-weight: 300; text-align: center; border: 1px solid #ebebeb; }
 form { padding: 20px; background: #f2f2f2; }
 
 /* GENERAL ELEMENT TYPE STYLES */
-#main-content h1 { margin-top: 0; margin-bottom: 0; font-family: Arial, Helvetica, sans-serif; font-size: 2.8em; font-weight: normal; color: #474747; text-indent: 6px; letter-spacing: -1px; }
+#main-content h1 { margin-top: 0; margin-bottom: 0; font-family: Arial, Helvetica, sans-serif; font-size: 2.8em; font-weight: normal; color: #474747; letter-spacing: -1px; }
 
-#main-content h2 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold; color: #474747; text-indent: 4px; }
+#main-content h2 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold; color: #474747; }
 
-#main-content h3 { margin-top: 24px; margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; color: #474747; text-indent: 3px; }
+#main-content h3 { margin-top: 24px; margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; color: #474747; }
 
-#main-content h4 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #474747; text-indent: 3px; }
+#main-content h4 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #474747; }
 
-#main-content h5 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #474747; text-indent: 3px; }
+#main-content h5 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #474747; }
 
-#main-content h6 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: .8em; color: #474747; text-indent: 3px; }
+#main-content h6 { margin-bottom: 8px; font-family: Arial, Helvetica, sans-serif; font-size: .8em; color: #474747; }
 
-p { margin-bottom: 20px; }
+p { margin-bottom: 20px; font-size: 18px; }
 
 a { text-decoration: none; }
 
@@ -358,23 +358,19 @@ footer a:hover { color: #444; }
   header h1, header h2 { width: 340px; }
   header h1 { font-size: 60px; }
   header h2 { font-size: 30px; }
-  #main-content { width: 490px; }
-  #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before, #main-content h5:before, #main-content h6:before { padding-right: 0; margin-left: 0; content: none; } }
-/* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) { .inner { width: 93%; }
-  header { padding: 20px 0; }
-  header .inner { position: relative; }
-  header h1, header h2 { width: 100%; }
-  header h1 { font-size: 48px; }
-  header h2 { font-size: 24px; }
-  header a.button { position: relative; display: block; width: auto; height: auto; padding: 5px 10px; margin-top: 15px; font-size: 13px; line-height: 1; color: #2879d0; text-align: center; background-color: #9ddcff; background-image: none; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
-  header a.button small { display: inline; font-size: 13px; }
-  #main-content, aside#sidebar { float: block; width: 100% !important; }
-  aside#sidebar { min-height: 0; padding: 20px 0; margin-top: 20px; background-image: none; border-top: solid 1px #ddd; }
-  aside#sidebar a.button { display: none; }
-  #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before, #main-content h5:before, #main-content h6:before { padding-right: 0; margin-left: 0; content: none; } }
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+  #main-content { width: 490px; /* All Mobile Sizes (devices and browser) */ /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */ /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */ } }
+@media only screen and (min-width: 768px) and (max-width: 959px) and (max-width: 767px) { #main-content .inner { width: 93%; }
+  #main-content header { padding: 20px 0; }
+  #main-content header .inner { position: relative; }
+  #main-content header h1, #main-content header h2 { width: 100%; }
+  #main-content header h1 { font-size: 48px; }
+  #main-content header h2 { font-size: 24px; }
+  #main-content header a.button { position: relative; display: block; width: auto; height: auto; padding: 5px 10px; margin-top: 15px; font-size: 13px; line-height: 1; color: #2879d0; text-align: center; background-color: #9ddcff; background-image: none; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+  #main-content header a.button small { display: inline; font-size: 13px; }
+  #main-content #main-content, #main-content aside#sidebar { float: block; width: 100% !important; }
+  #main-content aside#sidebar { min-height: 0; padding: 20px 0; margin-top: 20px; background-image: none; border-top: solid 1px #ddd; }
+  #main-content aside#sidebar a.button { display: none; }
+  #main-content #main-content h1:before, #main-content #main-content h2:before, #main-content #main-content h3:before, #main-content #main-content h4:before, #main-content #main-content h5:before, #main-content #main-content h6:before { padding-right: 0; margin-left: 0; content: none; } }
 /* Navigation Buttons */
 .button1 { padding: 8px 16px; text-align: center; text-decoration: none; display: block; font-size: 16px; margin: 2px 2px; transition-duration: 0.25s; cursor: pointer; background-color: white; color: black; border: 2px solid #327ace; float: left; height: 60px; width: 180px; }
 

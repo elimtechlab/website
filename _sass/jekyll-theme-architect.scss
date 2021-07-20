@@ -193,7 +193,6 @@ form {
   font-size: 2.8em;
   font-weight: normal;
   color: #474747;
-  text-indent: 6px;
   letter-spacing: -1px;
 }
 
@@ -203,7 +202,6 @@ form {
   font-size: 22px;
   font-weight: bold;
   color: #474747;
-  text-indent: 4px;
 }
 
 
@@ -214,7 +212,6 @@ form {
   font-size: 20px;
   font-weight: bold;
   color: #474747;
-  text-indent: 3px;
 }
 
 
@@ -225,7 +222,6 @@ form {
   font-size: 15px;
   font-weight: bold;
   color: #474747;
-  text-indent: 3px;
 }
 
 
@@ -235,7 +231,6 @@ form {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   color: #474747;
-  text-indent: 3px;
 }
 
 #main-content h6 {
@@ -243,12 +238,13 @@ form {
   font-family: Arial, Helvetica, sans-serif;
   font-size: .8em;
   color: #474747;
-  text-indent: 3px;
+
 }
 
 
 p {
   margin-bottom: 20px;
+  font-size: 18px;
 }
 
 a {
@@ -333,18 +329,6 @@ footer a:hover {
   }
   #main-content {
     width: 490px;
-  }
-  #main-content h1:before,
-  #main-content h2:before,
-  #main-content h3:before,
-  #main-content h4:before,
-  #main-content h5:before,
-  #main-content h6:before {
-    padding-right: 0;
-    margin-left: 0;
-    content: none;
-  }
-}
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
@@ -419,3 +403,5 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+  }
+}
