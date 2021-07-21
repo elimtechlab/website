@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <b>Boardmaker Tutorials</b><br>
 [Click here to access the YouTube Playlist](https://youtube.com/playlist?list=PL-Vx5FtexMWMCDg7cRQU6AaOXor--tp3F)
 
@@ -13,5 +14,7 @@ How to Be a Better Troubleshooter<br>
 
 Learn the Basics of Material Construction and Design<br>
 [https://youtu.be/ttyEVTgCcQg](https://youtu.be/ttyEVTgCcQg) 
+
+
 
 
