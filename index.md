@@ -4,15 +4,7 @@ layout: default
 
 ## Welcome to the Curriculum Center Hub! 
 
-This website was created by the Curriculum Center in order to provide an online presence that will be used for a variety of reasons. 
-
-Some of these reasons include: 
-- Distribution of new information
-- Linking to useful resources
-- Making it easy to schedule collaboration time with the Curriculum Center staff
-- (Eventually) Providing the ability to check-out or reserve materials and technology  
-
-Please take a look at the sidebar for some of the resources we currently have available!
+_This website provides an online space for the Curriculum Center to post announcements, useful links, and much more! Please take a look at the sidebar for some of the resources we currently have available._
 
 ---
 ## Seesaw End-of-Year Procedures (7/20/21)
