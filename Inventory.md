@@ -5,7 +5,7 @@ layout: default
 <style>
 img {
     float:center;
-    width:250px;
+    width:250 px;
     object-fit:contain;
 }
 </style>

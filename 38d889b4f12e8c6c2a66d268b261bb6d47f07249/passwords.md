@@ -5,7 +5,7 @@ layout: default
 ## Elim Passwords and Login Information
 
 | **Website** | **Username** | **Password** |
-| ------- | -------- | ---------| 
+| :-- | :-- | :-- | 
 | Help Kidz Learn | elimteachers | 2016Elim |
 | Starfall | kwatanabe@elimcs.org | Elimcs2020! |
 | BrainPOP | elimcs | brainpop |

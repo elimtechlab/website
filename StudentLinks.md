@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# Websites for Students
 
 ## All Content Areas
 CK-12 Foundation - Free Education Activites (K-12th)  
@@ -10,10 +10,13 @@ CK-12 Foundation - Free Education Activites (K-12th)
 Starfall Education Games (PreK-3rd)  
 [https://www.starfall.com/](https://www.starfall.com/h/)
 
-http://ixl.com
 
 
 ## Math 
+IXL  
+_Available for students with a login, please contact [irene.yuska@elimcs.org](irene.yuska@elimcs.org) for details._  
+[http://ixl.com](http://ixl.com)
+
 Math Learning Center (PreK-5th)  
 [https://www.mathlearningcenter.org](https://www.mathlearningcenter.org)
 
@@ -39,5 +42,6 @@ Tumblebooks - Animated, Talking Picture Books
 Storyline Online - Children's Stories Read By Famous Actors  
 [https://www.storylineonline.net](https://www.storylineonline.net)
 
-
+<br>
 <a href="../password_redirect.html"><button class="button button2">School-Wide Passwords</button></a>
+
