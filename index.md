@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to the Curriculum Center Hub! 
 
-_This website provides an online space for the Curriculum Center to post announcements, useful resources, and much more! Please take a look at the sidebar for some of the resources we currently have available._
+_This website provides an online space for the Curriculum Center to share announcements, useful resources, and much more! Please take a look at the sidebar for some of the resources we currently have available._
 
 ---
 ## Seesaw End-of-Year Procedures (7/20/21)
@@ -24,4 +24,4 @@ What this means for you?
 
 3.  Any co-teachers (such as therapists) will need to be added to your new classroom.
 
-_As always, please contact me with any questions!_
+
