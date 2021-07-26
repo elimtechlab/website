@@ -4,7 +4,19 @@ layout: default
 
 ## Welcome to the Curriculum Center Hub! 
 
-_This website provides an online space for the Curriculum Center to share announcements, useful resources, and much more! Please take a look at the sidebar for some of the resources we currently have available._
+On the new Curriculum Center website, you’ll be able to:
+
+- Find the latest announcements about curriculum and technology
+- Schedule a time to collaborate with curriculum center staff
+- See our list of recommended websites for students to use
+- Access our list of school-wide passwords
+- Find  a list of useful websites for staff
+- Find video tutorials for frequently used software
+- View and reserve technology available for check out
+- Easily access the Curriculum OneDrive Folder and Elim YouTube Channel
+
+_Please take a look at the sidebar for some of the resources we currently have available._
+
 
 ---
 ## Seesaw End-of-Year Procedures (7/20/21)

@@ -12,7 +12,7 @@ Free Content To Power Teaching and Learning (K-12th)
 [https://www.readworks.org/](https://www.readworks.org/)
 
 Books and Videos for Children (Ages 12 and Under)  
-_You can create a free educators account_  
+_You can create a free educators account._  
 [https://www.getepic.com/](https://www.getepic.com/)
 
 ---
