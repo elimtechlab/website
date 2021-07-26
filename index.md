@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to the Curriculum Center Hub! 
 
-_This website provides an online space for the Curriculum Center to post announcements, useful links, and much more! Please take a look at the sidebar for some of the resources we currently have available._
+_This website provides an online space for the Curriculum Center to post announcements, useful resources, and much more! Please take a look at the sidebar for some of the resources we currently have available._
 
 ---
 ## Seesaw End-of-Year Procedures (7/20/21)
