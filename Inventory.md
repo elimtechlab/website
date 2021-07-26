@@ -9,9 +9,10 @@ img {
     object-fit:contain;
 }
 </style>
+# Available Technology
+### _Head to the Curriculum Center to check out these devices!_
+---
 
-## Technology Avaiable to All Teachers and Therapists
-<br>
 
 | **Device** | **Description** | **Photo** | 
 |--|--|--|

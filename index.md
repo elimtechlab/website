@@ -15,7 +15,7 @@ Some of these reasons include:
 Please take a look at the sidebar for some of the resources we currently have available!
 
 ---
-
+## Seesaw End-of-Year Procedures (7/20/21)
 **At the close of ESY**, we will be required to follow the Seesaw [end-of-year procedures](https://help.seesaw.me/hc/en-us/articles/115000452783-End-of-year-guide "https://help.seesaw.me/hc/en-us/articles/115000452783-End-of-year-guide") in order to prepare for the 2021-2022 school year. These procedures require us to purge all current classrooms. 
 
 This means that: 
