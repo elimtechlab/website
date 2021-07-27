@@ -12,7 +12,7 @@ On the new Curriculum Center website, you’ll be able to:
 - Access our list of school-wide passwords
 - Find  a list of useful websites for staff
 - Find video tutorials for frequently used software
-- View and reserve technology available for check out
+- View and reserve technology available for checkout
 - Easily access the Curriculum OneDrive Folder and Elim YouTube Channel
 
 _Please take a look at the sidebar for some of the resources we currently have available._
