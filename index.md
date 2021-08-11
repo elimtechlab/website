@@ -41,7 +41,7 @@ Per Illinois law, websites that collect student data are now required to have a 
 
 If the name of the website is NOT listed below, please contact [irene.yuksa@elimcs.org](irene.yuksa@elimcs.org) for further guidance. 
 - IXL
-- PowerSChool
+- PowerSchool
 - Embrace IEP
 - Seesaw
 - Boom Learning
