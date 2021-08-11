@@ -3,8 +3,6 @@ layout: default
 ---
 # Websites for Students
 ---
-*Per Illinois law, websites that collect student data are now required to have a valid [SOPPA](https://ltcillinois.org/services/dataprivacy/) agreement on file with each school. If a website does not have a valid SOPPA agreement, then the school staff are not allowed to enter any of the students' [personal identifiable information](https://www.iasb.com/about-us/publications/journal/2020/january-february-2020/legal-matters-ready-or-not/). Please do not enter any student information into any of the websites not listed here:
-
 
 ## All Content Areas
 CK-12 Foundation - Free Education Activites (K-12th)  
