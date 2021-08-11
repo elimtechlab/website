@@ -35,4 +35,16 @@ What this means for you?
 
 3.  Any co-teachers (such as therapists) will need to be added to your new classroom.
 
+---
+## SOPPA (8/11/21)
+Per Illinois law, websites that collect student data are now required to have a valid [SOPPA](https://ltcillinois.org/services/dataprivacy/) agreement on file with each school. If a website does not have a valid SOPPA agreement, then the school staff are not allowed to enter any of the students' [personal identifiable information](https://www.iasb.com/about-us/publications/journal/2020/january-february-2020/legal-matters-ready-or-not/). 
+
+If the name of the website is NOT listed below, please contact [irene.yuksa@elimcs.org](irene.yuksa@elimcs.org) for further guidance. 
+- IXL
+- PowerSChool
+- Embrace IEP
+- Seesaw
+- Boom Learning
+- Reading A-Z
+
 
