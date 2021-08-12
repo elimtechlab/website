@@ -17,8 +17,14 @@ Pin Activities to the Top [Video](https://youtu.be/T_PUGhaS1tY)
 Share Boardmaker to Seesaw [Video](https://youtu.be/dxH49z9wza0)  
 Share An Activity [Video](https://youtu.be/pl9yPZOrxyI)
 
+### PowerSchool
+Taking Attendance [Video](https://youtu.be/6vm_gwdmGGo)
 
+---
 ## Presentations
 How to Be a Better Troubleshooter [Video](https://youtu.be/hSEcb6cYW90)  
 Learn the Basics of Material Construction and Design [Video](https://youtu.be/ttyEVTgCcQg)
+
+
+
 
