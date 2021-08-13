@@ -11,7 +11,7 @@ On the new Curriculum Center website, you’ll be able to:
 - See our list of recommended websites for students to use
 - Access our list of school-wide passwords
 - Find  a list of useful websites for staff
-- Find video tutorials for frequently used software
+- Find how-tos for frequently used software
 - View and reserve technology available for checkout
 - Easily access the Curriculum OneDrive Folder and Elim YouTube Channel
 
