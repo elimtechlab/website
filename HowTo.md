@@ -5,10 +5,13 @@ layout: default
 ---
 
 ### Planbook
+Planbook Basics i.e. Setting up Your Account/Lessons [Videos](https://planbook.uservoice.com/knowledgebase/articles/1948093-video-tutorials-basics)  
+Copying/Linking Lessons [Videos](https://planbook.uservoice.com/knowledgebase/articles/1948102-video-tutorials-copying-linking)  
 Set Up Class Sharing [Instructions](../pages/Planbook/ClassShare.html)  
 Copy Another Teacher's Lesson [Instructions](../pages/Planbook/CopyLesson.html)
 
 ### Seesaw
+Add a Co-Teacher to My Class [Instructions/Video](https://help.seesaw.me/hc/en-us/articles/203728745-How-do-I-add-a-teacher-or-co-teacher-to-my-class-)  
 Add Students to Multiple Classrooms [Video](https://youtu.be/ox9xjcpPJ4M)  
 Create Home Learning Codes [Video](https://youtu.be/dm8S3X5PDG4)  
 Pin Activities to the Top [Video](https://youtu.be/T_PUGhaS1tY)
