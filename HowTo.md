@@ -5,8 +5,8 @@ layout: default
 ---
 
 ### Planbook
-Putting Lesson Plans in Planbook [Video](https://youtu.be/iCm7PtPL3b4)  
-Putting Your Schedule in Planbook [Video](https://youtu.be/8Y1HBBPoeUU)
+Putting Lesson Plans in Planbook [Video (Kelly)](https://youtu.be/iCm7PtPL3b4)  
+Putting Your Schedule in Planbook [Video (Kelly)](https://youtu.be/8Y1HBBPoeUU)
 
 Set Up Class Sharing [Instructions](../pages/Planbook/ClassShare.html)  
 Copy Another Teacher's Lesson [Instructions](../pages/Planbook/CopyLesson.html)
