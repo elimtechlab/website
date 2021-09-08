@@ -6,7 +6,8 @@ layout: default
 
 ### Planbook
 Putting Lesson Plans in Planbook [Video (Kelly)](https://youtu.be/iCm7PtPL3b4)  
-Putting Your Schedule in Planbook [Video (Kelly)](https://youtu.be/8Y1HBBPoeUU)
+Putting Your Schedule in Planbook [Video (Kelly)](https://youtu.be/8Y1HBBPoeUU)  
+Recurring Plans in Planbook [Video (Kelly)](https://youtu.be/iRRCaZAMkUo)  
 
 Set Up Class Sharing [Instructions](../pages/Planbook/ClassShare.html)  
 Copy Another Teacher's Lesson [Instructions](../pages/Planbook/CopyLesson.html)
@@ -25,7 +26,7 @@ Share Boardmaker to Seesaw [Video](https://youtu.be/dxH49z9wza0)
 Share An Activity [Video](https://youtu.be/pl9yPZOrxyI)
 
 ### PowerSchool
-Taking Attendance [Video](https://youtu.be/6vm_gwdmGGo)
+Taking Attendance [Video (Joe)](https://youtu.be/6vm_gwdmGGo)
 
 ---
 ## Presentations
