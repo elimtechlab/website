@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-**What We In The Curriculum Center Do**  
-<u>Collaborate</u> - work together for a common purpose.  
+**What We Do** 😊  
+<u>Collaborate</u> - work together for a common purpose and towards a common goal.
 
-**What We DON'T Do**  
+**What We DON'T Do** 😒  
 <u>Evaluate</u> - judge or determine significance, worth, or quality.  
 
 ---
