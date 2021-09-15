@@ -9,7 +9,7 @@ layout: default
 
 ---
 
-On the new Curriculum Center website, you’ll be able to:
+On the Curriculum Center website, you’ll be able to:
 
 - Find the latest announcements about curriculum and technology
 - Schedule a time to collaborate with curriculum center staff
@@ -23,6 +23,7 @@ On the new Curriculum Center website, you’ll be able to:
 _Please take a look at the sidebar for some of the resources we currently have available._
 
 ---
+# Announcements
 ## SOPPA (8/11/21)
 Per Illinois law, websites that collect student data are now required to have a valid [SOPPA](https://ltcillinois.org/services/dataprivacy/) agreement on file with each school. If a website does not have a valid SOPPA agreement, then the school staff are not allowed to enter any of the students' [personal identifiable information](https://www.iasb.com/about-us/publications/journal/2020/january-february-2020/legal-matters-ready-or-not/). 
 
