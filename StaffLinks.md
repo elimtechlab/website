@@ -17,7 +17,7 @@ _You can create a free educators account._
 
 ---
 ## For Making Materials
-Create Powerpoint Presentation from PDF  
+Create a Powerpoint Presentation from PDF  
 [https://www.adobe.com/acrobat/online/pdf-to-ppt.html](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)  
 
 Combine PDFs  
