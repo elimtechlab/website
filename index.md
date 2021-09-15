@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
+**What We In The Curriculum Center Do**  
+<u>Collaborate</u> - work together for a common purpose or benefit.  
 
-## Welcome to the Curriculum Center Hub! 
+**What We DON'T Do**  
+<u>Evaluate</u> - judge or determine significance, worth, or quality.  
+
+---
 
 On the new Curriculum Center website, you’ll be able to:
 
