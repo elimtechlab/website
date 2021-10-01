@@ -7,6 +7,7 @@ layout: default
 | **Website** | **Username** | **Password** |
 | :-- | :-- | :-- | 
 | Help Kidz Learn | elimteachers | 2016Elim |
+| ChooseIt! Maker 3 | ElimStaff | 2016Elim |
 | Starfall | kwatanabe@elimcs.org | Elimcs2020! |
 | BrainPOP | elimcs | brainpop |
 | BrainPOP Jr. | elimcs | brainpop |
