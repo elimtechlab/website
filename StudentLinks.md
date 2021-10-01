@@ -44,7 +44,7 @@ Storyline Online - Children's Stories Read By Famous Actors
 [https://www.storylineonline.net](https://www.storylineonline.net)
 
 ## Staff Curated Activities
-ChooseIt! Maker 3 - 
+ChooseIt! Maker 3 - Create Multiple Choice Slides
 [https://www.helpkidzlearn.com/](https://www.helpkidzlearn.com/cm-info)
 
 <br>
