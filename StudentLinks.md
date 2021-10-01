@@ -43,6 +43,10 @@ Tumblebooks - Animated, Talking Picture Books
 Storyline Online - Children's Stories Read By Famous Actors  
 [https://www.storylineonline.net](https://www.storylineonline.net)
 
+## Staff Curated Activities
+ChooseIt! Maker 3 - 
+[https://www.helpkidzlearn.com/](https://www.helpkidzlearn.com/cm-info)
+
 <br>
 <a href="../password_redirect.html"><button class="button button2">School-Wide Passwords</button></a>
 
