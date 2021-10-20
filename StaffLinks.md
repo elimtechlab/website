@@ -5,6 +5,14 @@ layout: default
 ---
 
 ## For The Classroom
+Planet Nutshell  
+[https://planetnutshell.com/netsafe/](https://planetnutshell.com/netsafe/)  
+*Episodes covering topics like protecting personal information, responsible posting of pictures, and mobile location privacy. The videos are labeled with grade levels. Below each grade level label, you will find a summary of the key points of each video.*  
+
+PBS Kids Ruff Ruffman  
+[https://pbskids.org/fetch/ruff/](https://pbskids.org/fetch/ruff/)  
+*Videos and online quizzes designed to help elementary school students understand the importance of things like online privacy, safe texting behaviors, and managing screen-time.*
+
 One New Picture, Every Day  
 [https://www.pobble365.com/](https://www.pobble365.com/)
 
