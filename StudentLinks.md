@@ -4,6 +4,12 @@ layout: default
 # Websites for Students
 ---
 
+<a href="../password_redirect.html"><button class="button button2">School-Wide Passwords</button></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 ## All Content Areas
 CK-12 Foundation - Free Education Activites (K-12th)  
 [https://www.ck12.org](https://www.ck12.org/student/)
@@ -47,6 +53,6 @@ Storyline Online - Children's Stories Read By Famous Actors
 ChooseIt! Maker 3 - Create Multiple Choice Slides
 [https://www.helpkidzlearn.com/](https://www.helpkidzlearn.com/cm-info)
 
-<br>
-<a href="../password_redirect.html"><button class="button button2">School-Wide Passwords</button></a>
+
+
 
