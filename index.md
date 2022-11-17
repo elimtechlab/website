@@ -19,6 +19,6 @@ Per Illinois law, websites that collect student data are now required to have a 
 
 ---
 
-If the name of the website is not listed [here](irene.yuksa@elimcs.org), please contact [irene.yuska@elimcs.org](irene.yuksa@elimcs.org) for further guidance.
+If the name of the website is not listed [here](https://sdpc.a4l.org/district_search.php?state=IL&districtID=10896), please contact [irene.yuska@elimcs.org](irene.yuksa@elimcs.org) for further guidance.
 
 
