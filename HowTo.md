@@ -33,9 +33,12 @@ Please fill out this form and follow the directions:
 [https://www.cognitoforms.com/ElimChristianServices/ElimYouTubeChannel](https://www.cognitoforms.com/ElimChristianServices/ElimYouTubeChannel)
 
 ---
+
 ## Presentations
 How to Be a Better Troubleshooter [Video](https://youtu.be/hSEcb6cYW90)  
 Learn the Basics of Material Construction and Design [Video](https://youtu.be/ttyEVTgCcQg)
+
+
 
 
 
