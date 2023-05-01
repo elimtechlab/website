@@ -25,7 +25,6 @@ img {
 | Pouring Cups | Mix it up with a switch-activated pouring cup that allows users to participate in cooking classes or dramatic play. | <img src="../assets/images/inventory/pouringcups.jpg"/>  |
 | Powerlink 4 | AbleNet Powerlink 4 Switch Control Unit grants users the control of two different electrical appliances with individual switches in their switch interface. | <img src="../assets/images/inventory/powerlink4.jpg"/>  |
 | Adapted Scissors | These easy-to-use switch adapted scissors make class participation and craft activities possible. | <img src="../assets/images/inventory/scissors.jpg"/>  |
-| Skoog | The Skoog is a customizable electronic musical instrument that has been designed to be inclusive and accessible – especially to those unable to play conventional musical instruments. | <img src="../assets/images/inventory/skoog.jpg"/>  |
 
 
 

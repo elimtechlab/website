@@ -5,29 +5,38 @@ layout: default
 ---
 
 ## For The Classroom
-Planet Nutshell  
-[https://planetnutshell.com/netsafe/](https://planetnutshell.com/netsafe/)  
+
+Expenses Receipt<br>
+[https://expensesreceipt.com/](https://expensesreceipt.com/)<br>
+*Create custom receipts for your students to practice working with money.*
+
+Over The Counter Medicine Safety <br>
+[https://www.scholastic.com/otc-med-safetyz/](https://www.scholastic.com/otc-med-safety/teachers/index.html?fbclid=IwAR3MbHDdPabZ6NdlNd9u6NVGwfydWRvOEGuyaOEfg5qpnxqDGmXDScwk6c4)<br>
+*OTC Medicine Safety: Lesson Plans & Materials for Teachers*
+
+Free Jeopardy Boards <br>
+[https://jeopardylabs.com/](https://jeopardylabs.com/)<br>
+
+Planet Nutshell<br>
+[https://planetnutshell.com/netsafe/](https://planetnutshell.com/netsafe/)<br>
 *Episodes covering topics like protecting personal information, responsible posting of pictures, and mobile location privacy. The videos are labeled with grade levels. Below each grade level label, you will find a summary of the key points of each video.*  
 
-PBS Kids Ruff Ruffman  
-[https://pbskids.org/fetch/ruff/](https://pbskids.org/fetch/ruff/)  
+PBS Kids<br>
+[https://pbskids.org/](https://pbskids.org/)<br>
 *Videos and online quizzes designed to help elementary school students understand the importance of things like online privacy, safe texting behaviors, and managing screen-time.*
 
-One New Picture, Every Day  
-[https://www.pobble365.com/](https://www.pobble365.com/)
-
-Free Content To Power Teaching and Learning (K-12th)  
+Free Content To Power Teaching and Learning (K-12th)<br>
 [https://www.readworks.org/](https://www.readworks.org/)
 
-Books and Videos for Children (Ages 12 and Under)  
+Books and Videos for Children (Ages 12 and Under)<br>
 _You can create a free educators account._  
 [https://www.getepic.com/](https://www.getepic.com/)
 
 ---
 ## For Making Materials
-Create a Powerpoint Presentation from PDF  
+Create a Powerpoint Presentation from PDF<br>
 [https://www.adobe.com/acrobat/online/pdf-to-ppt.html](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)  
 
-Combine PDFs  
+Combine PDFs<br>
 [https://localpdf.tech/merge](https://localpdf.tech/merge)
 
