@@ -5,15 +5,10 @@ layout: default
 ---
 
 ### Planbook
-Putting Lesson Plans in Planbook [Video (Kelly)](https://youtu.be/iCm7PtPL3b4)  
-Putting Your Schedule in Planbook [Video (Kelly)](https://youtu.be/8Y1HBBPoeUU)  
-Recurring Plans in Planbook [Video (Kelly)](https://youtu.be/iRRCaZAMkUo)  
-
-Seting Up Class Sharing [Instructions](../pages/Planbook/ClassShare.html)  
-Copying Another Teacher's Lesson [Instructions](../pages/Planbook/CopyLesson.html)
-
-Planbook Basics i.e. Setting up Your Account/Lessons [Videos](https://planbook.uservoice.com/knowledgebase/articles/1948093-video-tutorials-basics)  
-Copying/Linking Lessons [Videos](https://planbook.uservoice.com/knowledgebase/articles/1948102-video-tutorials-copying-linking) 
+[Putting Lesson Plans in Planbook](https://youtu.be/iCm7PtPL3b4)  
+[Adding lesson plan templates to your schedule](https://app.tango.us/app/workflow/Adding-Lesson-Plan-Templates-to-your-schedule-d1050de446874c879cec8314c8207469)
+[Enabling Lesson Sharing](https://app.tango.us/app/workflow/Enabling-Lesson-Sharing-8ffc46868a944573aa4ddd23c94bd1cc)
+[Copying a teacher's lesson plan](https://app.tango.us/app/workflow/Copying-a-Teacher-s-Lesson-Plan-28ab2f59601a4660a226b016f836fc2c)
 
 ### Seesaw
 Adding a Co-Teacher to My Class [Instructions/Video](https://help.seesaw.me/hc/en-us/articles/203728745-How-do-I-add-a-teacher-or-co-teacher-to-my-class-)  
