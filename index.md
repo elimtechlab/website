@@ -11,8 +11,7 @@ layout: default
 <a href="../files/E-LearningPlan.pdf"><button class="button button2">E-Learning Plan</button></a>
 <!-- <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=pwtS_qu5xEqOmRJpkXTY4Aurql-10EdEpnYOjHLQNdlUNTZRTFRYQUM2NUE4NFpDTlJZU1BKOUExUS4u"><button class="button button2">Caseload Change</button></a> --->
 <a href="../Economy.html"><button class="button button2">Elim Debit Cards</button></a>
-<br><br><br>
-
+<br><br><br><br><br>
 # Announcements
 ## SOPPA
 Per Illinois law, websites that collect student data are now required to have a valid [SOPPA](https://ltcillinois.org/services/dataprivacy/) agreement on file with each school. If a website does not have a valid SOPPA agreement, then the school staff are not allowed to enter any of the students' [personal identifiable information](https://www.iasb.com/about-us/publications/journal/2020/january-february-2020/legal-matters-ready-or-not/). 
