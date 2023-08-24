@@ -22,6 +22,11 @@ layout: default
 
 [Pinning Activities to the Top](https://youtu.be/T_PUGhaS1tY)
 
+### Canva
+
+[Customize a Newsletter Template in Canva](https://app.tango.us/app/workflow/Customize-a-Newsletter-Template-in-Canva-6465fb171940480198c443b0684bf9dd)
+
+
 ### Boardmaker
 [Sharing Boardmaker to Seesaw](https://youtu.be/dxH49z9wza0)  
 
