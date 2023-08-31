@@ -21,11 +21,7 @@ Starfall Education Games (PreK-3rd)
 
 ## Math 
 IXL  
-_Available for students with a login, please contact [irene.yuska@elimcs.org](irene.yuska@elimcs.org) for details._  
 [http://ixl.com](http://ixl.com)
-
-Math Learning Center (PreK-5th)  
-[https://www.mathlearningcenter.org](https://www.mathlearningcenter.org)
 
 Free Math Games (PreK-8th)  
 [https://www.mathgames.com/](https://www.mathgames.com/)
