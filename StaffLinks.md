@@ -6,6 +6,10 @@ layout: default
 
 ## For The Classroom
 
+Debit Cards<br>
+[Visual]("../Economy.html)<br>
+*Your students can have their own Elim Debit Card to take to the school store.*
+
 Expenses Receipt<br>
 [https://expensesreceipt.com/](https://expensesreceipt.com/)<br>
 *Create custom receipts for your students to practice working with money.*
