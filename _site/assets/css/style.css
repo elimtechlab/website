@@ -377,11 +377,11 @@ footer a:hover { color: #444; }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 /* Navigation Buttons */
-.button1 { padding: 8px 16px; text-align: center; text-decoration: none; display: block; font-size: 16px; margin: 2px 2px; transition-duration: 0.25s; cursor: pointer; background-color: white; color: black; border: 2px solid #327ace; float: left; height: 60px; width: 180px; border-radius: 15px; }
+.button1 { padding: 8px 16px; text-align: center; text-decoration: none; display: block; font-size: 16px; margin: 2px 2px; transition-duration: 0.25s; cursor: pointer; background-color: #c5bbbb; color: black; border: 2px solid #327ace; float: left; height: 60px; width: 180px; border-radius: 15px; }
 
 .button1:hover { background-color: #327ace; color: white; }
 
-.button2 { padding: 8px 16px; text-align: center; text-decoration: none; display: block; font-size: 25px; margin: 2px 2px; transition-duration: 0.25s; cursor: pointer; background-color: white; color: black; border: 2px solid #327ace; float: left; height: 120px; width: 180px; border-radius: 15px; }
+.button2 { padding: 8px 16px; text-align: center; text-decoration: none; display: block; font-size: 25px; margin: 2px 2px; transition-duration: 0.25s; cursor: pointer; background-color: #ece8e8; color: black; border: 2px solid #327ace; float: left; height: 120px; width: 180px; border-radius: 15px; }
 
 .button2:hover { background-color: #327ace; color: white; }
 
