@@ -27,9 +27,12 @@ Free Math Games (PreK-8th)
 [https://www.mathgames.com/](https://www.mathgames.com/)
 
 
-## Games
+## Switch-Compatible Games
 Help Kidz Learn - Switch Compatible Games and Activities  
 [http://helpkidzlearn.com](https://www.helpkidzlearn.com/games-and-activities-info)
+
+Special Bites - More Switch Compatible Games and Activities
+[http://www.specialbites.com/](http://www.specialbites.com/)
 
 
 ## Stories and Videos
