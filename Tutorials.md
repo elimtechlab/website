@@ -3,7 +3,6 @@ layout: default
 ---
 # Video Tutorials
 ---
-
 <b>Boardmaker Tutorials</b><br>
 [Click here to access the YouTube Playlist](https://youtube.com/playlist?list=PL-Vx5FtexMWMCDg7cRQU6AaOXor--tp3F)
 

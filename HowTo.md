@@ -3,6 +3,9 @@ layout: default
 ---
 # Tutorials for Staff
 ---
+### Lesson Planning
+[English Language Arts](https://www.canva.com/design/DAFs1QjtZ0o/JYbSRkCbeg4E-bmABIJK-Q/edit?utm_content=DAFs1QjtZ0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ### Planbook
 [Putting Lesson Plans in Planbook](https://youtu.be/iCm7PtPL3b4)  
