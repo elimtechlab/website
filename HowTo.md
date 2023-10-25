@@ -8,7 +8,7 @@ layout: default
 
 
 ### Planbook
-[Putting Lesson Plans in Planbook](https://youtu.be/iCm7PtPL3b4)  
+[Putting Your Schedule in Planbook](https://app.tango.us/app/workflow/Putting-your-schedule-in-Planbook-ff90e5f060e74febbb15dd5be6246113)  
 
 [Adding Lesson Plan Templates to Your Schedule](https://app.tango.us/app/workflow/Adding-Lesson-Plan-Templates-to-your-schedule-d1050de446874c879cec8314c8207469)
 
