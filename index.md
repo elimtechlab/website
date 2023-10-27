@@ -9,7 +9,7 @@ layout: default
 
 # Quick Links
 <a href="../Collaboration.html"><button class="button button2">Collaboration Logs</button></a>
-<a href="../files/E-LearningPlan.pdf"><button class="button button2">E-Learning Plan</button></a>
+<a href="../E-LearningPlan.html"><button class="button button2">E-Learning Plan</button></a>
 <a href="https://www.cognitoforms.com/ElimChristianServices/TherapistCaseloadChangeRequest"><button class="button button2">Caseload Change</button></a>
 <br><br><br><br><br>
 # Announcements
