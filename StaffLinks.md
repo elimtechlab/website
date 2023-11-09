@@ -3,6 +3,14 @@ layout: default
 ---
 # Links for Staff
 ---
+### Embrace IEP
+[https://www.outreachtime.com/](https://www.outreachtime.com/login/)<br>
+
+### PowerSchool
+[Admin Portal](https://elim.powerschool.com/admin/pw.html) <span>&#8592;</span>take attendance here<br>
+[Teacher Portal](https://elim.powerschool.com/public/)<br>
+[Parent and Student Portal](https://elim.powerschool.com/public/)<br>
+
 
 ## For The Classroom
 
