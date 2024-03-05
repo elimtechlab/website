@@ -17,6 +17,10 @@ CK-12 Foundation - Free Education Activites (K-12th)
 Starfall Education Games (PreK-3rd)  
 [https://www.starfall.com/](https://www.starfall.com/h/)
 
+# Language Arts Games
+Word finds, word searches, doodles, word scrambles, original & classic stories & more! (ELementary/Middle School)
+[Toy Theater](https://toytheater.com/category/language-arts/)
+
 
 
 ## Math 
