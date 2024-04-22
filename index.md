@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-<!-- **What We Do**<br>
-<u>Collaborate</u> - work together for a common purpose and towards a common goal.
-
-**What We DON'T Do**<br>
-<u>Evaluate</u> - judge or determine significance, worth, or quality.  -->
 
 # Quick Links
 <a href="../Collaboration.html"><button class="button button2">Collaboration Logs</button></a>
