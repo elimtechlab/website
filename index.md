@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Quick Links
+<a href="files\ClosingTheGap2023ResourceList.pdf"><button class="button button2">Closing The Gap 2023</button></a>
 <a href="../Collaboration.html"><button class="button button2">Collaboration Logs</button></a>
 <a href="../E-LearningPlan.html"><button class="button button2">E-Learning Plan</button></a>
 <a href="https://www.cognitoforms.com/ElimChristianServices/TherapistCaseloadChangeRequest"><button class="button button2">Caseload Change</button></a>
