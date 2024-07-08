@@ -42,4 +42,4 @@ jobs:
         run: chmod +x script/cibuild
 
       - name: Test site
-        run: script/cibuild
+        run: bundle exec script/cibuild
