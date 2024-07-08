@@ -3,8 +3,5 @@
 source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll', '~> 4.2.0'
-gem 'webrick', '~> 1.7'
-
-# If your repository has a .gemspec file, include it
-gemspec if File.exist?(File.expand_path('..', __FILE__) + '/your_project_name.gemspec')
+gem 'webrick'
+gem 'faraday-retry'
