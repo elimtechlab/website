@@ -1,6 +1,26 @@
-title: Curriculum Center Online
-description: Elim Christian School
+
+
 show_downloads: false
 google_analytics:
 repository: elimtechlab/website
-theme: jekyll-theme-architect
+theme: jekyll-theme-architect\
+title: Curriculum Center Online
+description: Elim Christian School
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://curriculumcenter.org" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # Add other plugins if they are supported by GitHub Pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
