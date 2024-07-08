@@ -34,12 +34,12 @@ jobs:
 
       - name: Install dependencies
         run: bundle install
-        working-directory: ${{ github.workspace }}
 
       - name: Build site
         run: bundle exec jekyll build
-        working-directory: ${{ github.workspace }}
+
+      - name: Make cibuild executable
+        run: chmod +x script/cibuild
 
       - name: Test site
         run: script/cibuild
-        working-directory: ${{ github.workspace }}
