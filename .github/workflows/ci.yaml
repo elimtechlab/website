@@ -26,6 +26,10 @@ jobs:
       - name: Install dependencies for building native extensions
         run: sudo apt-get install -y build-essential libffi-dev libxml2-dev libxslt1-dev zlib1g-dev || true
 
+      - name: Install and update Bundler
+        run: |
+          gem install bundler -v "~> 2.4.0"
+
       - name: Debug environment
         run: |
           echo "Listing current directory:"
