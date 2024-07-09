@@ -3,7 +3,7 @@
 show_downloads: false
 google_analytics:
 repository: elimtechlab/website
-theme: jekyll-theme-architect\
+theme: jekyll-theme-architect
 title: Curriculum Center Online
 description: Elim Christian School
 baseurl: "" # the subpath of your site, e.g. /blog
