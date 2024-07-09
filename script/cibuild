@@ -2,9 +2,10 @@
 
 set -e
 
+# Build the site
 bundle exec jekyll build
 
-# Run htmlproofer with configuration and ignore errors
+# Run htmlproofer and ignore errors
 bundle exec htmlproofer ./_site --disable-external || echo "HTMLProofer errors ignored"
 
 # Run rubocop and ignore errors
@@ -14,4 +15,5 @@ bundle exec rubocop -D || echo "Rubocop errors ignored"
 chmod +x script/validate-html || true
 bundle exec script/validate-html || echo "Validate-html errors ignored"
 
+# Build the gem and ignore errors
 gem build jekyll-theme-architect.gemspec || echo "Gem build errors ignored"
