@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to latest version
 
       - name: Set up Ruby
-        uses: ruby/setup-ruby@v1.147.0
+        uses: ruby/setup-ruby@v1.158.0 # Updated to latest version
         with:
           ruby-version: 2.7
 
