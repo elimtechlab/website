@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4 # Updated to latest version
+        uses: actions/checkout@v4 # Updated to the latest version
 
       - name: Set up Ruby
-        uses: ruby/setup-ruby@v1.158.0 # Updated to latest version
+        uses: ruby/setup-ruby@v1.158.0 # Updated to the latest version
         with:
           ruby-version: 2.7
 
@@ -46,4 +46,7 @@ jobs:
         run: chmod +x script/cibuild || true
 
       - name: Run script/cibuild
-        run: bundle exec script/cibuild || true
+        run: |
+          set -e
+          chmod +x script/validate-html || true
+          bundle exec script/cibuild || true
