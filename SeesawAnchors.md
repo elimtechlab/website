@@ -4,18 +4,6 @@ layout: default
 # Seesaw Anchors
 ---
 
-# Week of February 10th 
----
-1. [ES ELA: Boots](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b535cd42-059f-4955-9fa3-7c6420d6f3bd&share_token=jvna-E5eRCSCz-zO9raybQ)
-2. [ES Social Studies: John Lewis](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0907c306-a583-4e1d-8f97-0151a2851745&share_token=b6Y_h8HMSUy62Z4wvxLMtA)
-3. [ES & MS Science: Skin Allergies](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3a0f65fa-ef56-4827-82ad-f17d625bebf5&share_token=zJDPJfkhQBywFBNunzXdlA)
-4. [MS ELA: North](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3a9bbe81-6716-47a3-a298-c47ed428ab0d&share_token=uxlN5SMUTtK8KXHmF7R1Hg)
-5. [MS Social Studies: Bill of Rights](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8b8644ba-4988-466c-8a44-3a94be0bebec&share_token=NANiuikpR5-x6sp0He7ycg)
-6. [HS ELA: Rider](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8a717c19-b49e-40fd-847b-5d82f90e1f94&share_token=NK0Hyt2iQcW2cVv6UlSi7A)
-7. [HS Science: Pet Allergies](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.70605e64-948c-41fc-83a7-2dfb5aaa390f&share_token=t1b6jM37SEKg9Zg8LEV2JA)
-8. [Transition Personal Health & Wellness: Asking for Help](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.65e93071-1368-471f-99e2-65d56d49a9c8&share_token=kYp0e5S5RlKAcLi8HwqewQ)
-9. [Transition Community Living: Dropping off Dry Cleaning](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.532f711c-08f6-459b-b499-9ea7a56cbc6a&share_token=pJ6lLHWwTmyPYtOW_K7y4Q)
-
 # Week of February 17th
 
 1. [ES ELA:Shoes Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.284c3589-8fbd-4480-b89a-233c6164aef7&share_token=_ljIPj2nRxih2ZTM6JDZNw)
@@ -32,3 +20,14 @@ layout: default
 12. [HS Personal Health and Safety: Advocating for Myself](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.00f64179-cb60-4555-923e-5dba68df75b3&share_token=qmik_z-ORYyYtUEl3yCBCA)
 13. [Transition Personal Health and Wellness: Confidence/Self-Esteem](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a9490e47-9d55-4d42-a2c8-870d65778473&share_token=oRQM38mjSsiFHeYb-brinA)
 14. [Transition Communtiy Living: Mailing a Letter or Package](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e688c915-acb7-4c72-b39d-31522f646a59&share_token=57Z6C765TtafRkFk8rF7qQ)
+
+# Week of February 24th
+
+1. [ES ELA: Shirt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e425fff5-5823-4b21-b7fb-ba92bd1e90af&share_token=zItItUN6SgyauYqByZq7Dw)
+2. [ES ELA: Pants](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cafa5cad-b4b5-4c95-840b-333985dc1624&share_token=1ZFMMCroSOSsfj8wHilirw)
+3. [ES Social Studies: Colin Powell](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.034e0f7d-95ca-46d5-944c-51cf968180b2&share_token=Qu1cDgY_S_G14Eu3ETL6Rw)
+4. [ALL Science: Epi Pens and Medication](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a68d6560-a8b4-48c6-b58a-3d312c6e645b&share_token=Jd9F7aQYSQu5d3_neUM_uQ)
+5. [MS ELA: East and West](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6e28bdb9-ce5d-448d-834d-a0e986760047&share_token=0JGRbxLCRQStGgrj3mntyg)
+6. [MS & HS Social Studies: Black History Month](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9d5fdf02-111c-4041-8ce9-167bedde49ca&share_token=mp2LUiRSQBqhHHioXk2ynghttps://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9d5fdf02-111c-4041-8ce9-167bedde49ca&share_token=mp2LUiRSQBqhHHioXk2yng)
+7. [HS ELA:Taxi/Uber](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0d7570f4-5a81-4a5a-8e94-8139c728b971&share_token=M_XTDxtyQRmXUdlF1wi41A)
+8. [Transition Community Living: Cashing a Check and Going to the Bank](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f157a67a-79aa-4fab-acf9-bd5366ef5ae7&share_token=_t6xgDZTS3qIE3efKMG_hg)
