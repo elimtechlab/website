@@ -15,7 +15,7 @@ img {
 3/27/2025 <br>
 Presented by Little Friends, Helping Hand and Bee You Therapy/Hive Program  <br>
 Hosted by Elim Christian Services <br>
-[https://youtu.be/uYGLHD13Ilk] <br>
+[https://youtu.be/uYGLHD13Ilk](https://youtu.be/uYGLHD13Ilk) <br>
 ### Understanding Social Security
 2/11/2025 <br>
 Presented by Megan Forristall from the social security administration <br>
