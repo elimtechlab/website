@@ -3,6 +3,11 @@ layout: default
 ---
 # IEP Supports
 ---
+## If you have any questions about these data sheets, or need a more specific sheet made, please contact Melanie Arnold.
+<br>
+
+
+![Help](../assets/images/Fairy.png)
 
 <b>The Parent Guide to IEPs</b><br>
 [PDF](../forms/The-Parent-Guide.pdf)
@@ -13,23 +18,23 @@ layout: default
 <b>Types of IEP Meetings</b><br>
 [PDF](../forms/Types_of_IEP_Meetings.pdf)
 
-<b>Blank Data Sheet</b><br>
-[PDF](../forms/DATA_BLANK.pdf) / [PowerPoint](../forms/DATA_BLANK.pptx)
+<b>Elim Data Collection Form</b><br>
+[Doc](../files/Elim_Data_Collection_Form.doc)
 
-<b>Blank Data Sheet 2</b><br>
-[PDF](../forms/DATA_BLANK_2.pdf) / [PowerPoint](../forms/DATA_BLANK_2.pptx)
+<b>Frequency Data Sheets</b><br>
+[Docx](../files/Frequency_Data_Sheet.docx)
 
-<b>Data Packet</b><br>
-[PDF](../forms/Data_Packet.pdf) / [PowerPoint](../forms/Data_Packet_Editable.pptx)
+<b>Goal Label Cards</b><br>
+[PDF](../files/Goal_Label_Cards.pdf)
 
-<b>Data Packet 2</b><br>
-[PDF](../forms/Data_Packet_2.pdf) / [PowerPoint](../forms/Data_Packet_Editable_2.pptx)
+<b>Sight Word Data Sheets</b><br>
+[Docx](../files/Sight_Word_Data _Sheet.docx)
 
-<b>Fluency Data Sheets</b><br>
-[PDF](../forms/Fluency_Data_Sheets.pdf) / [PowerPoint](../forms/Fluency_Data_Sheets.pptx)
+<b>Sorting Data Sheets</b><br>
+[Docx](../files/Sorting_Data_Sheets.docx)
 
+<b>Task Analysis Data Sheets</b><br>
+[Docx](../files/Task_Analysis_Data_Sheets.docx)
 
-
-
-
-
+<b>Trials Data Sheets</b><br>
+[Docx]("../files/Trials_Data_Sheet.docx)
