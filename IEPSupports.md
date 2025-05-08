@@ -9,6 +9,9 @@ layout: default
 
 ![Help](../assets/images/Fairy.png)
 
+<b>IEP Procedure Manual</b><br>
+[OneNote](https://elimcs-my.sharepoint.com/:o:/g/personal/melanie_arnold_elimcs_org/En7Y_JJHNltLvY0VFRxCBwgBGsKjk0MfnPndVq0iR0AoIw?e=HT7pvp)
+
 <b>The Parent Guide to IEPs</b><br>
 [PDF](../forms/The-Parent-Guide.pdf)
 
