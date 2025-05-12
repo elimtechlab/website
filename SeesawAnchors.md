@@ -5,20 +5,6 @@ layout: default
 ---
 
 
-# Week of May 5th
-
-1. [ES ELA: Morning](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1baf0e43-cfad-471e-bd77-ce7c587f7436&share_token=SACCJFBORhC4zYuh33BPnw)
-2. [ES ELA: Night](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7fb42d0b-15c1-4091-b2ce-1f1d169b63bb&share_token=Z3DKlG7BThe-eUAQmiCTuw)
-3. [MS ELA: Application](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.71f66f2a-4a6b-4f50-a936-9536f8eec8e1&share_token=yLHuI-CpTxKdfZ0CmixqSA)
-4. [MS Social Studies: Democracy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.66835bcb-9062-46ca-922a-7a1709cc4e27&share_token=4wiceQHXTvKdjuRU401RDA)
-5. [MS Social Studies: Democracy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e85d6f3e-d678-4145-ae5b-24a42ca12d69&share_token=_1PzDxu4RlKI_MReJXMVPw)
-6. [MS & HS Personal Health & Safety: First Aid Kits](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.88f1ab5e-b008-4622-ae6c-8b9e33f47b54&share_token=ZmA0ak2IT46_vXIJKNhWSA)
-7. [HS ELA: Home Phone & Work Phone](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.32c95d61-e287-47b1-a4eb-c21c9cb2f358&share_token=qRuvdNI1TQ2Y6D7cFGtCpQ)
-8. [Transition Personal Health and Wellness: Fruits & Vegetables](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.942b1f0a-3fa0-4488-b010-b3ecf9ae45cf&share_token=6JtWJ8-OS6aBZgMNGej_Qg)
-9. [Transition Personal Health and Wellness: Fruits & Vegetables](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.23279d98-491a-4169-acd0-82057aa80af3&share_token=Wq4n7RGcTaunAOMo9MG2kw)
-10. [Transition Personal Health and Wellness: Fruits & Vegetables Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.03a24b96-3239-4ed3-b55d-1cf1d7614bcc&share_token=ODh_X-dXTeuzBwXm8erIEw)
-11. [Transition Personal Health and Wellness: Fruits & Vegetables Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2f051c75-3d8d-4ebe-9640-f52e21bd2579&share_token=IBRCwXDxQ_qwZos-rCyHEg)
-
 # Week of May 12th
 
 1. [ES ELA: Tomorrow](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5c754ee4-013e-43ae-ab9d-95b95c6a2d32&share_token=ZY6rv2V1QC-PMpBaDQkUjw)
@@ -42,3 +28,20 @@ layout: default
 5. [HS Soc. Studies: Commerce](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.daba4fa4-d39e-48da-a756-292e053dd2c3&share_token=2pqcgC-cQcGWALxCVrQNEw)
 6. [Transition: Personal Health & Wellness: Grains Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7cdc4766-1633-48bf-8bd7-b57e61c7c9e7&share_token=2tdTJrPtRcq8UYydbpDWEg)
 7. [Transition: Personal Health & Wellness: Grains Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a14b1b23-ca2a-4fb6-9dd5-66a63f8c156a&share_token=PAI4_YEBSPWizKNZRUnzjw)
+
+# Week of May 26th 
+
+1. [ES ELA: Friday](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c2508a8e-1db7-4d60-900b-e040910d4ede&share_token=WSHevaaeRJO2TtbHXsbsHQ)
+2. [ES ELA: Saturday](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.49bbb87c-0e8d-4dee-9874-527e5f688af1&share_token=Bws2in3VSf2gDox6zZh9Nw)
+3. [ES ELA: Sunday](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.08fbea5a-27bc-4baa-87b8-1fda89f4ced7&share_token=wcvtwzTSR8iB8F9T_eqQtw)
+4. [ES Personal Health and Safety: Who Can Help in an Emergency?](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7cb365d6-a604-4cbd-827e-1e427ff6689c&share_token=FwT2pqV8RH2O8xu-lEnQMA)
+6. [MS ELA: Salary and Pay](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f785ceee-8657-47eb-9b2b-477990200aac&share_token=HlGCZOv0RQKmMZugOmOUWQ)
+7. [MS Personal Health and Safety: Who Can Help in an Emergency? Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.69b6070e-454b-4914-9647-87d748e4cedd&share_token=qtO5588oQViPK4Q2c-GBrw)
+8. [HS ELA: Employer](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.faa64782-c262-442a-8e28-40f3222874f2&share_token=o-yGIfb_Sz-Ldv2E8fR5Gw)
+9. [HS ELA: Employment](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b912c60a-4842-46e9-a9d9-b6ccb67e5779&share_token=Ncx91cSHTzWAuOChjVRKNQ)
+10. [HS Science: Urinary System](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b7d50f27-4f1f-447f-a244-5a4a2aa61694&share_token=cNzVXIfAS663q9AeT2Onlw)
+11. [HS Social Studies: Defense](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e3b92702-9a1e-4e42-bf70-d6da3126c283&share_token=Cu6ZSMKxQNuzjMWtBN-Nlg)
+12. [Transition Personal Health and Wellness: My Plate Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0821defb-a634-4140-8448-222264c014a8&share_token=r5B9RDk9QESDJwgsG2G1Vw)
+13. [Transition Personal Health and Wellness: My Plate Book 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cde05782-735e-4851-88df-57d50e6a8e27&share_token=iulM9DbgRpmfth-4uUb9KA)
+14. [Transition Personal Health and Wellness: My Plate  Sorting Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.07f66dd7-38be-41b1-9c95-bed11ed7a7ee&share_token=q5ejIE-PRF-cHplcjZEMGA)
+15. [Transition Personal Health and Wellness: My Plate Matching](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c7547b5a-c24f-41e5-97cd-2261942f4c51&share_token=KRzmNE11RXisbyUYL3auEw)
