@@ -5,20 +5,6 @@ layout: default
 ---
 
 
-# Week of May 12th
-
-1. [ES ELA: Tomorrow](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5c754ee4-013e-43ae-ab9d-95b95c6a2d32&share_token=ZY6rv2V1QC-PMpBaDQkUjw)
-2. [ES ELA: Yesterday](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.742e56e5-7a3e-42c2-ac5b-9742c0868b8f&share_token=5qmVpJghRg-bTnkEMHwppA)
-3. [ES Soc. Studies: Stars and Stripes](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0f2a263b-c2bb-4338-9442-fe6472cf1ac4&share_token=y7h7O8CDSJuTrQwGEsoatA)
-4. [ES and MS  Personal Health & Safety: Care of cuts, bruises, and burns](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3a7b93ac-de38-413a-acaf-3099664fa267&share_token=jNehOscrT-u_vZTj9y1ChA)
-5. [MS ELA: Position](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.fb110dd5-ddf2-4471-9c1e-897f8ef8ab9b&share_token=N92Au3uaQTCHXU3fHxrp6g)
-6. [MS Social Studies: President](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7e0ae401-b8db-4568-9863-3388095fbab3&share_token=LZZfv_ujR_WAzFd9yUyc_Q)
-7. [MS Social Studies: Vice President](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.355c0381-16af-4634-9b8c-9d70989f2186&share_token=4caomotwRSuzqV1JYFn9eQ)
-8. [HS ELA: Emergency Contact](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.59006729-5ecb-4b57-9479-b8aa6d543527&share_token=-wSjM9epSgiGj0nWOFNT7Q)
-9. [HS Science: Endocrine System](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d78b4055-8ab9-4d9c-a6d5-85dc53ee42aa&share_token=KU3BpSSgRFaIuQQiqP9icw)
-10. [Transtion Personal Health and Wellness: Protein](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.aabdbdb0-d980-43e9-be0b-a658ecfe188e&share_token=NHQLNz_tTc6K-8VdJCMJbg)
-11. [Transition Personal Health and Wellness: Dairy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.fd9d4f8a-b6d9-482c-8358-7f5e6781e8b9&share_token=YLnHjz81QQaxPuSB2ZeBAQ)
-
 # Week of May 19th 
 
 1. [ES ELA: Thursday](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e4e40abe-86a2-4679-83bb-b3fe446795be&share_token=EJSlydjSTmahqQWyFI-Caw)
@@ -45,3 +31,18 @@ layout: default
 13. [Transition Personal Health and Wellness: My Plate Book 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cde05782-735e-4851-88df-57d50e6a8e27&share_token=iulM9DbgRpmfth-4uUb9KA)
 14. [Transition Personal Health and Wellness: My Plate  Sorting Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.07f66dd7-38be-41b1-9c95-bed11ed7a7ee&share_token=q5ejIE-PRF-cHplcjZEMGA)
 15. [Transition Personal Health and Wellness: My Plate Matching](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c7547b5a-c24f-41e5-97cd-2261942f4c51&share_token=KRzmNE11RXisbyUYL3auEw)
+
+# Week of June 16th 
+
+1. [ES ELA: Sandwich](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3fb44ae9-3b6e-4810-9b2e-b16cdaac5a6a&share_token=hVYSXkgyRbKJ2LnSWhgvng)
+2. [ES ELA: Bread](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8b7b5668-ca88-4991-8f15-0a7a746870a5&share_token=8jNPJoFiTUm-cI7bTTE1ww)
+3. [ES Science: Fruits Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.942b1f0a-3fa0-4488-b010-b3ecf9ae45cf&share_token=6JtWJ8-OS6aBZgMNGej_Qg)
+4. [ES Science: Fruits Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.942b1f0a-3fa0-4488-b010-b3ecf9ae45cf&share_token=6JtWJ8-OS6aBZgMNGej_Qg)
+5. [ES & MS Social Studies: Army Slides](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3c17f3c9-d3f7-4de6-aa1c-bdd5c844b403&share_token=jx-IpYw4S7ad3lNhi5FpIg)
+6. [ES & MS Social Studies: Army Activities](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3c17f3c9-d3f7-4de6-aa1c-bdd5c844b403&share_token=jx-IpYw4S7ad3lNhi5FpIg)
+7. [MS ELA: Office Work Words](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3f31651c-2238-4518-9cbe-ef16316b8079&share_token=YjO2pimzT4aGdCLY3_MkTQ)
+8. [MS Science: Grains Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7cdc4766-1633-48bf-8bd7-b57e61c7c9e7&share_token=2tdTJrPtRcq8UYydbpDWEg)
+9. [MS Science: Grains Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a14b1b23-ca2a-4fb6-9dd5-66a63f8c156a&share_token=PAI4_YEBSPWizKNZRUnzjw)
+10. [HS ELA: Schedule](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.06b2e6a9-3a86-4b14-b9e0-4ba1b89dfee0&share_token=x51_5SmiTmSUUcCJ7QmcGw)
+11. [HS Science: Proteins](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.46e5d7f0-f540-45c8-9947-c2779ccd7988&share_token=U45weRm8T_KzxRxvdNWdzA)
+12. [HS Science: Protein Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c62b5623-8546-4aae-8b8c-f23b8873c717&share_token=VcyxoYuZSlGEXI80XGtqTA)
