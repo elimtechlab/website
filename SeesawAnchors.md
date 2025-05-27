@@ -5,15 +5,6 @@ layout: default
 ---
 
 
-# Week of May 19th 
-
-1. [ES ELA: Thursday](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e4e40abe-86a2-4679-83bb-b3fe446795be&share_token=EJSlydjSTmahqQWyFI-Caw)
-2. [MS ELA: Referral](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6e6417b7-281f-4f83-90eb-af758ef5c3c9&share_token=04LCJb1PSwSbfLVILPn9-Q)
-3. [HS ELA: Education](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2fec51b3-b6eb-48c7-8222-5a45f1c41b5f&share_token=sm6yhbTXSM27YAuob7p-lQ)
-4. [HS ELA: Skills](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b912c60a-4842-46e9-a9d9-b6ccb67e5779&share_token=Ncx91cSHTzWAuOChjVRKNQ)
-5. [HS Soc. Studies: Commerce](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.daba4fa4-d39e-48da-a756-292e053dd2c3&share_token=2pqcgC-cQcGWALxCVrQNEw)
-6. [Transition: Personal Health & Wellness: Grains Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7cdc4766-1633-48bf-8bd7-b57e61c7c9e7&share_token=2tdTJrPtRcq8UYydbpDWEg)
-7. [Transition: Personal Health & Wellness: Grains Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a14b1b23-ca2a-4fb6-9dd5-66a63f8c156a&share_token=PAI4_YEBSPWizKNZRUnzjw)
 
 # Week of May 26th 
 
@@ -46,3 +37,16 @@ layout: default
 10. [HS ELA: Schedule](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.06b2e6a9-3a86-4b14-b9e0-4ba1b89dfee0&share_token=x51_5SmiTmSUUcCJ7QmcGw)
 11. [HS Science: Proteins](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.46e5d7f0-f540-45c8-9947-c2779ccd7988&share_token=U45weRm8T_KzxRxvdNWdzA)
 12. [HS Science: Protein Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c62b5623-8546-4aae-8b8c-f23b8873c717&share_token=VcyxoYuZSlGEXI80XGtqTA)
+
+# Week of June 23rd
+
+1. [ES ELA: Milk Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.84a9fc90-9a5f-4017-a582-1044d26200c6&share_token=zPxXy7HmQUOGxcr0wQcctQ)
+2. [ES ELA: Milk Activity 1](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.26530af3-98bd-4ee5-8e8d-14e3a21f08d3&share_token=NdsYdFvqRWy56Bpzoyl27w)
+3. [ES ELA: Milk Activity 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f6db0aff-4b4c-4858-a58f-b4164aae369d&share_token=V3LSca4lSz-AwkFwhLJDIQ)
+4. [ES ELA: Water](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.04d468e1-f42c-4640-90ac-b3326bb4c6be&share_token=NdHKASfjStCGpEUZ4E7bhg)
+5. [ES Science: Vegetables](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c84807d5-0d01-4d0d-8b73-c0bd658e9006&share_token=Fv4EXQ95QsCeTxLBeQPHdw)
+6. [ES & MS Social Studies: Navy Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.04d468e1-f42c-4640-90ac-b3326bb4c6be&share_token=NdHKASfjStCGpEUZ4E7bhg)
+7. [ES & MS Social Studies: Navy Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5227b529-843e-411f-ac03-f227d2264c9d&share_token=zsKA1qS6SA2GABCnN6Ffbg)
+8. [ES & MS Personal Health and Safety: Conservation: Reduce](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9f9823b7-4346-444a-86aa-b86d815784d2&share_token=7-sXe8qISXiDDnDraw-kdw)
+9. [MS ELA: Cleaning Work Words](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8785d23d-b103-42df-811e-153ad1dec91b&share_token=Lb_siyDkQ5-fRxYmqSB9Dg)
+10. [HS ELA: Time Clock and Time Sheet](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.33501113-7ed0-4c1c-b3e1-c266fa850a17&share_token=NSQ8zKhvTKuUwxMfgXY-6Q)
