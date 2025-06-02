@@ -16,6 +16,7 @@ img {
 Presented by Agatha DeFranco <br>
 Hosted by Elim Christian Services <br>
 [https://youtu.be/4yE-w84J6_o](https://youtu.be/4yE-w84J6_o) <br>
+
 ### Day Program and CILA Resources
 3/27/2025 <br>
 Presented by Little Friends, Helping Hand and Bee You Therapy/Hive Program  <br>
@@ -31,6 +32,11 @@ Hosted by Elim Christian Services  <br>
 Presenter Ruth Aguilar <br>
 Hosted by Elim Christian Services  <br>
 [https://youtu.be/pDRt2GX_AbQ](https://youtu.be/pDRt2GX_AbQ) <br>
+### Transition Planning with Sharon Butterfield
+9/19/24 <br>
+Presented by Sharon Butterfield <br>
+Hosted by Elim Christian Services <br>
+[Transition Planning with Sharon Butterfield (PDF)](../files/2025-09-14-Transition_Presentation_Notes.pdf)
 ### Suburban Access ISC Individual Service Coordination Agency
 4/12/2023 <br>
 Presenter Patty O'Brien Administrator <br>
