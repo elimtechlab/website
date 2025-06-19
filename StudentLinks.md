@@ -52,6 +52,9 @@ Tumblebooks - Animated, Talking Picture Books
 Storyline Online - Children's Stories Read By Famous Actors  
 [https://www.storylineonline.net](https://www.storylineonline.net)
 
+Monarch Reader - Digital books for beginning readers of all ages
+[https://www.monarchreader.com/](https://www.monarchreader.com/)
+
 ## Staff Curated Activities
 ChooseIt! Maker 3 - Create Multiple Choice Slides
 [https://www.helpkidzlearn.com/](https://www.helpkidzlearn.com/cm-info)
