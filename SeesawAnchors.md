@@ -5,19 +5,6 @@ layout: default
 ---
 
 
-# Week of June 23rd
-
-1. [ES ELA: Milk Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.84a9fc90-9a5f-4017-a582-1044d26200c6&share_token=zPxXy7HmQUOGxcr0wQcctQ)
-2. [ES ELA: Milk Activity 1](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.26530af3-98bd-4ee5-8e8d-14e3a21f08d3&share_token=NdsYdFvqRWy56Bpzoyl27w)
-3. [ES ELA: Milk Activity 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f6db0aff-4b4c-4858-a58f-b4164aae369d&share_token=V3LSca4lSz-AwkFwhLJDIQ)
-4. [ES ELA: Water](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.04d468e1-f42c-4640-90ac-b3326bb4c6be&share_token=NdHKASfjStCGpEUZ4E7bhg)
-5. [ES Science: Vegetables](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c84807d5-0d01-4d0d-8b73-c0bd658e9006&share_token=Fv4EXQ95QsCeTxLBeQPHdw)
-6. [ES & MS Social Studies: Navy Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.04d468e1-f42c-4640-90ac-b3326bb4c6be&share_token=NdHKASfjStCGpEUZ4E7bhg)
-7. [ES & MS Social Studies: Navy Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5227b529-843e-411f-ac03-f227d2264c9d&share_token=zsKA1qS6SA2GABCnN6Ffbg)
-8. [ES & MS Personal Health and Safety: Conservation: Reduce](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9f9823b7-4346-444a-86aa-b86d815784d2&share_token=7-sXe8qISXiDDnDraw-kdw)
-9. [MS ELA: Cleaning Work Words](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8785d23d-b103-42df-811e-153ad1dec91b&share_token=Lb_siyDkQ5-fRxYmqSB9Dg)
-10. [HS ELA: Time Clock and Time Sheet](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.33501113-7ed0-4c1c-b3e1-c266fa850a17&share_token=NSQ8zKhvTKuUwxMfgXY-6Q)
-
 # Week of June 30th
 
 1. [ES ELA: Juice Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e04e0c51-ebe4-4c27-8f99-1fb7f21dd9cd&share_token=S3I_TLq0QGqI9SSlCkzuxw)
@@ -48,5 +35,19 @@ layout: default
 12. [HS Science: Fruits and Vegetables Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.03a24b96-3239-4ed3-b55d-1cf1d7614bcc&share_token=ODh_X-dXTeuzBwXm8erIEw)
 13. [HS Social Studies: Marines](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.43b6d686-9dc8-4a1a-aba5-b40f4fda0183&share_token=ZtFFPfoxTHuczCBDlh8rIA)
 14. [HS Personal Health & Safety: Repair](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.243c78e7-15c3-4dc9-9155-07284e55864f&share_token=GiCLxvVlSpqgIAUOPPp5Xg)
-15. [Transiion Community Living: Emergencies](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1d0dad1e-10cb-4e02-98a6-6df218129ab5&share_token=SNHiT1RWRKWbhr1BKkSQPw)
+15. [Transition Community Living: Emergencies](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1d0dad1e-10cb-4e02-98a6-6df218129ab5&share_token=SNHiT1RWRKWbhr1BKkSQPw)
 16. [BIBLE: God Keeps His Promises](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.bcb6622b-4c5c-4bb1-ae42-5db2403b79de&share_token=VjBYEjEoQuiMrk5K3v7cZA)
+
+# Week of July 14th
+
+1. [ES ELA: Cracker](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3a7103bb-9f4e-430c-af6d-46c3b66e17de&share_token=gr3p6LJNRPmMIY8rexBpmA)
+2. [ES ELA: Cheese](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ec32777f-c499-4d49-8862-a2ad1c2f900b&share_token=0U9AYQDcQ4-236waxZaBUg)
+3. [ES Science: Grains Book](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7cdc4766-1633-48bf-8bd7-b57e61c7c9e7&share_token=2tdTJrPtRcq8UYydbpDWEg)
+4. [ES Science: Grains Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a14b1b23-ca2a-4fb6-9dd5-66a63f8c156a&share_token=PAI4_YEBSPWizKNZRUnzjw)
+5. [ES & MS Personal Health & Safety: Recycle](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d0d663e3-ee51-4a49-ba0c-798697c9b5f8&share_token=aBfywqsERfaavbrNkOmLKQ)
+6. [MS ELA: Mailroom Work Words](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e9956af8-e912-4976-a862-be24546999f6&share_token=1QU31XxFTGCxubvzH3ynJg)
+7. [MS Science: Dairy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.fd9d4f8a-b6d9-482c-8358-7f5e6781e8b9&share_token=YLnHjz81QQaxPuSB2ZeBAQ)
+8. [MS Science: Dairy Questions](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a1ac9d86-1e80-4926-9e5c-5353fedcc117&share_token=hJb1ld2kRtiaQuZYGYUqkw)
+9. [MS & HS Social Studies: Coast Guard](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.166df8a7-8833-4404-9bee-c306c68bf205&share_token=Kcy7IHrgQ_WdjNCUx5oGBg)
+10. [HS ELA: Break Room](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8cec60e4-8618-4a64-a2c4-6e939cdc5b4d&share_token=7YGXJuUlTueGcWbCsHEsmg)
+11. [ALL Bible: God is in Covenant with Us](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.31c0dd8c-c441-4341-89ea-59b694144eca&share_token=oWxmnovBQDqkJmBuRWtbEw)
