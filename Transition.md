@@ -11,6 +11,11 @@ img {
 </style>
 # Transition Resource Library
 ---
+
+### The Book by Attorney Robert H. Farley, Jr
+[The Book - How To Navigate The Illinois Disability System](files\The_Book.pdf)<br>
+2025 Edition<br>
+
 ### Transition - A Parent's Perspective
 4/16/2025 <br>
 Presented by Agatha DeFranco <br>
