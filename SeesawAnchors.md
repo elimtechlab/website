@@ -7,24 +7,6 @@ layout: default
 
 # **2025-2026 School Year**
 
-# Week of October 6th 
-
-1. [ES ELA: Red](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6bd2cfeb-3f61-428e-8834-14d248eba97e&share_token=1PGlBxmMSVSluW4g5AJFng)
-2. [ES ELA: Yellow](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c30ab61e-1031-4165-b817-5c1fe4fccc44&share_token=fK-jdQefRFy3Imic0njMqA)
-3. [ES ELA: Yellow Comprehension Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c4fb08c5-0573-4b1b-8dfe-43e749a40fb8&share_token=0w5vpdt_RaWSZI7GGyrMEg)
-4. [ES ELA: Orange](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eee8dbb5-af31-4d58-9462-bc7edf8303e6&share_token=TG6NoMlnT-eQxYAn1_GuMQ)
-5. [ES Personal Health & Safety: Newborns and Toddlers](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b6a88a0a-f9e4-4326-bc3c-23be3d27de85&share_token=CxdOnGoPSQCL8XyHgVJ4PQ)
-6. [ES Science: The Moon](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.bb40a7a7-8fa9-4d80-b871-0034d7411b83&share_token=wE79Y4kiS3OaiQWzuaWuuw)
-7. [ES Social Studies: Apache Tribes](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.22659def-5cf8-4d86-9b3a-bb7a2e01bb6d&share_token=FB1fMrs5RIuaMIWKEHZavw)
-8. [MS ELA: Groceries](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a9f006a2-6202-4022-a7a3-07544feb23dc&share_token=Uc0pXkd0RIiku8G8IhXwTQ)
-9. [MS Personal Health & Safety: Newborns](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.bbb45e88-3889-4979-a7cd-90a3af838a66&share_token=wS3grAWvRt-zte68jhUpww)
-10. [MS & HS Social Studies: Stamp Act](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.af4d059d-a5db-43ac-be6a-a738fe11ea17&share_token=dWgHo3XPQRC28vuenotszA)
-11. [HS ELA: Groceries](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a9f006a2-6202-4022-a7a3-07544feb23dc&share_token=Uc0pXkd0RIiku8G8IhXwTQ)
-12. [HS Personal Health & Safety: Newborn](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c8043d8f-b2d2-4a5a-bc39-aa73fef1b2d6&share_token=HbTca64SRqOektJjkXQGXA)
-13. [HS Science: The Moon](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d2bd5196-a458-4674-9915-49c43dbd1b44&share_token=PhoHH6W6TGmhI1DGsnd9qg)
-14. [HS Social Studies: The Colonies](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.668ebb82-172c-4bf4-939c-2648bbdf382a&share_token=0mCN2WZQQeOzj642KwDyzw)
-15. [ALL Bible: Give Us Today Our Daily Bread](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e2fb47f4-df7f-4a6c-a1ea-a2fd03d10c62&share_token=CYOzcCB_R7GGptY0W8ZGeQ)
-
 # Week of October 13th 
 
 1. [ES ELA: Black](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.aecc82e8-5124-494e-96b8-f103d67a66c6&share_token=L1Kc4hBjR9mjjoiWIGpv5A)
