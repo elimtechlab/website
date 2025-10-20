@@ -7,19 +7,6 @@ layout: default
 
 # **2025-2026 School Year**
 
-# Week of October 13th 
-
-1. [ES ELA: Black](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.aecc82e8-5124-494e-96b8-f103d67a66c6&share_token=L1Kc4hBjR9mjjoiWIGpv5A)
-2. [ES ELA: White](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.81ea66df-ec3d-40bc-93c1-216b5df4840a&share_token=YpM0uUdJTI2XiSXBFfwj4w)
-3. [ES ELA: Gray](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.31e132df-9b3b-4349-97fe-485be7a143e0&share_token=B3M84yvoQj66A0lvY14oQg)
-4. [ES Social Studies: Sioux Nation](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.64667f2f-05a9-46c0-9a38-4dbacc1dc5a6&share_token=7XoQ1yqLSMuU1BYrndSQ5Q)
-5. [MS ELA: Grocery Store Names](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c9b1e919-9466-4c65-9183-e8b6fa6b3d57&share_token=KMmCKWqXS-6GRhbw8EZsuw)
-6. [MS Social Studies: Boston Tea Party](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3df9004a-554a-4f20-87fe-5e3117d44ce9&share_token=zpfLzj5uTNmj0HqBo_TEEw)
-7. [MS & HS Personal Health & Safety: Stages of Life-Childhood](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.caaf3431-d3c4-4dab-b6cb-9bf8af4d8b1f&share_token=Uoru6cn5QeScukCGPdsxQg)
-8. [HS ELA: Grocery Store Names](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c9b1e919-9466-4c65-9183-e8b6fa6b3d57&share_token=KMmCKWqXS-6GRhbw8EZsuw)
-9. [HS Social Studies: Stamp Act](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.af4d059d-a5db-43ac-be6a-a738fe11ea17&share_token=dWgHo3XPQRC28vuenotszA)
-10. [ALL Bible: Forgive Our Sins](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1fa59afe-e9e6-467e-a3e3-7e5949cde85f&share_token=ggAKbvv0Qm-_t-2wtKI8tw)
-
 # Week of October 20th
 
 1. [ES ELA: Brown](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f7a1e2f9-f1f6-4d93-8b13-d8284ffe816d&share_token=cBAiVSPMTo6AMzbAkaA9rw)
@@ -40,3 +27,19 @@ layout: default
 16. [HS Science: Lunar Eclipse](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2472b850-e50c-4488-a328-90a3553218f2&share_token=DtEQg-h1REeZ1O984XAvlw)
 17. [HS Social Studies: Boston Tea Party](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3df9004a-554a-4f20-87fe-5e3117d44ce9&share_token=zpfLzj5uTNmj0HqBo_TEEw)
 18. [ALL Bible: Guard Us from Temptation](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6681baa5-8f9b-4d55-9be5-27149967f6bd&share_token=OXgWAQxORXmIDSsb5Pn2ig)
+
+# Week of October 27th
+
+1. [ES ELA: Pink](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4610fa3d-c014-4ec1-afb0-5986d02839d2&share_token=kg1j4rz-RoqawkjLoCkpWg)
+2. [ES ELA: Purple Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6485b0d9-b5e0-49a8-8242-5da03e615ebf&share_token=273btOYqT6C3blmaOOyhpQ)
+3. [ES ELA: Purple Comprehnsion Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7f58c266-4562-494f-9ca3-fb0ae8220a12&share_token=vh1kJhG1T9Cb9a47p-FAnQ)
+4. [ES Science: Craters of the Moon](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a30edeee-50ae-44a6-b6b0-210f76f70d7e&share_token=8Ck5GVfOSdKKfDB7S0gAkw)
+5. [ES Social Studies: Native American Tribe's Now](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2e895678-ba52-42b2-881d-ae5e35bb0e08&share_token=uLhPtFK8QkeYCEBinVxDKA)
+6. [MS ELA: Apple](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d2756a39-d228-4654-baae-500441d71e34&share_token=fIiD5NagQUmv5soVe2_GkQ)
+7. [MS ELA: Orange](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eee8dbb5-af31-4d58-9462-bc7edf8303e6&share_token=TG6NoMlnT-eQxYAn1_GuMQ)
+8. [MS ELA: Banana](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.fb878cf3-8504-408d-b9f0-9b410b734fc7&share_token=ME4tuXrSQjCDXTnB6FF54g)
+9. [MS & HS Science: Lunar Eclipse](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2472b850-e50c-4488-a328-90a3553218f2&share_token=DtEQg-h1REeZ1O984XAvlw)
+10. [MS & HS Personal Health & Safety: Stages of Life-Adult](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.39b1d32e-ecef-40d0-97da-9bf1df6af13a&share_token=KwooPXoERAS6Wbo8WdfMLw)'
+11. [HS ELA: Dairy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.00baae4d-3141-4933-a08d-52b26c66297e&share_token=oNCXSU3BTSeRqhffFdGHCA)
+12. [HS Social Studies: American Revolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.62503067-502e-4384-a909-c3a63217bb13&share_token=v3n_nFx4TcWQQNt9RIEcvg)
+13. [ALL Bible: Praise Belong's to God](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9cd0a31d-ee0d-43bf-93f8-7dc301071f3d&share_token=zdlH88M7TNeWTKesxCcoXw)
