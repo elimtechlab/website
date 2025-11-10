@@ -7,22 +7,6 @@ layout: default
 
 # **2025-2026 School Year**
 
-# Week of November 3rd
-
-1. [ES ELA: Circle](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2301f7e4-e315-4f78-8d2c-b39d83b433ff&share_token=OO8OCCL0TTSJ2uUOUIuX0A)
-2. [ES ELA: Square](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1ba86552-c98b-4c75-ad1f-71134c56586d&share_token=mbRxBDuuQmq6ZituqWcFTQ)
-3. [ES Personal Health & Safety: Siblings](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6f290096-644f-412f-9044-3a9185d5c2b3&share_token=wHKOeeGCRI6yJ2EZ5jTAqg)
-4. [ES Personal Health & Safety: Parents](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.855a77ea-d3f4-4705-b7f5-714ea46f991f&share_token=OyUKV1-fR1mpleyDUp8ASg)
-5. [ES Science: What is a Star?](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.2fddf5ae-8ff6-404b-8f69-88c2c883c720&share_token=Q9aPsOQ8RTOl3Er-15upVQ)
-6. [ES Social Studies: Stamp Act](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.af4d059d-a5db-43ac-be6a-a738fe11ea17&share_token=dWgHo3XPQRC28vuenotszA)
-7. [MS ELA: Restaurant Names](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ff35b449-566a-44fe-90d2-90115c516b0f&share_token=K4rnnmY1Sk6cH2k8JVFB2w)
-8. [MS Social Studies: Slavery](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6bca242c-b709-43ac-b5bc-eede71f50781&share_token=S6VTSAPqT1e8X1NADj2N3w)
-9. [HS ELA: Restaurant Names](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ff35b449-566a-44fe-90d2-90115c516b0f&share_token=K4rnnmY1Sk6cH2k8JVFB2w)
-10. [HS Science: What is a Star?](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.158192b0-ce21-49cc-9e59-70cd798f8f81&share_token=EZaPWbMMQ1CD_Np4YSR72A)
-11. [HS Personal Health & Safety: Family Safety](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ee7fba5e-65ee-4c87-93fa-63136a08ece9&share_token=IkEX8iRtQC6I8iLIAijzrw)
-12. [HS Social Studies: Slavery](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6bca242c-b709-43ac-b5bc-eede71f50781&share_token=S6VTSAPqT1e8X1NADj2N3w)
-13. [ALL Bible: Prophet's Candle-Hope](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d6061a26-aea1-4ed6-adf4-cbf231501b44&share_token=zZXhxbvWTM-joBhzAVkQOw)
-
 # Week of November 10th 
 
 1. [ES ELA: Triangle](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.75aaf4a5-4b54-44d4-b5d1-3b7adda5f34d&share_token=eer1CRPsT2WMCMx3D7bpSw)
@@ -37,3 +21,16 @@ layout: default
 10. [HS Social Studies: Harriet Tubman](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9b03199f-36b7-4c02-905e-c44965680741&share_token=QRHh81Y3RwiUKdDcp2kuuA)
 11. [HS Social Studies: The Undergroud Railroad](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.978c0cf1-c5c7-47fa-98fd-df981fe4786c&share_token=TFiRUyw0S3uOTQTiJhGWVQ)
 12. [ALL Bible: Bethlehem's Candle-Peace](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a6abcd70-f819-4b66-a4f1-bfe70c2e1b28&share_token=QgPixrtcR7uN5doP56kF-Q)
+
+# Week of November 17th 
+
+1. [ES ELA: Oval](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d510e304-faed-4ce6-a9d7-8ad4c23c2115&share_token=bP3d4YlKQ5u8IcVjDL9FfQ)
+2. [ES ELA: Heart](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.09c9340e-7671-4a8b-9d9d-5f2f7266a405&share_token=l3KalstyTFKSGQUFJUdmLw)
+3. [ES Personal Health & Safety: Safety at School](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4f35b202-0e47-4dae-bea8-7edb76a52d11&share_token=QGfyPBmlTvqdmKqlJms0jA)
+4. [ES Science: Solar System](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5cf1ae50-ec38-4cc5-b00b-aff28116539a&share_token=_FOsa14nSHyiPs6kTdLIjw)
+5. [ES Social Studies: American Revolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.02833a24-402c-4bd8-922f-0c266ffb7a28&share_token=tkKlO4YwT_aMKm_8qXs3LA)
+6. [MS ELA: Order Here, Pick Up Here](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7e9227b2-f88b-4337-993a-a07ef30203d9&share_token=BXfAgg4NTG-hbzds7XBX9w)
+7. [MS Science: Solar System](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8551ca9c-1806-463f-817a-0008326576d1&share_token=-we5vEbeQqGonBdFOmdZ0A)
+8. [HS ELA: Small, Medium, & Large](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cbe6f027-933b-4b98-be59-a6c506a16a40&share_token=-bFDI9loQM26QMN8KyRj6A)
+9. [HS Science: Solar Sysytem](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1535896f-6b84-45cc-98fb-9e36c81fce28&share_token=qUH2wrC-RNycYlUhdSLJ-Q)
+10. [ALL Bible: Sheperd's Candle- Joy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b27b91da-5fb0-42a5-b85b-2ed7de725276&share_token=a6CyJn-zRqmNJhthsmoNUg)
