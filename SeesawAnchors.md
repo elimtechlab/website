@@ -16,7 +16,7 @@ layout: default
 5. [MS ELA: Zoo](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8a607b1f-466b-4b9a-8d95-4fde38fe7149&share_token=A9wdBpRVQc-E6X_QJQsPQg)
 6. [HS ELA: Concert](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b13ef0d5-419d-4149-b417-f07d3dc095de&share_token=WYPSUCaKR9W6o_rZld1H9g)
 7. [HS Personal Health & Safety: Cyber Safety](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5f61464b-5ddc-41ea-b64b-a37f0fbf080b&share_token=ZSAXHOakRECmuPD3N98bGA)
-8. [HS Social Studies: Civil War(https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9dfaec87-17b1-460d-96ae-81bfee23599b&share_token=mXGATDA7R96oL9t1HotrVQ)]
+8. [HS Social Studies: Civil War](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9dfaec87-17b1-460d-96ae-81bfee23599b&share_token=mXGATDA7R96oL9t1HotrVQ)]
 9. [ALL Bible: Immanuel](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.60becb14-1a10-404a-85ae-7cd86e1b6781&share_token=WBrSKbVTQrO_1_m36sHpyA)
 
 # Week of Dec. 8
