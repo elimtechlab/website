@@ -12,6 +12,12 @@ img {
 # Transition Resource Library
 ---
 
+### PUNS and Waiver Services
+11/06/2025 <br>
+Presented by Ruth Aguilar of the Arc of Illinois Family Advocate Program<br>
+Hosted by Elim Christian Services <br>
+[https://youtu.be/7Ju75wozwhc](https://youtu.be/7Ju75wozwhc) <br>
+
 ### The Book by Attorney Robert H. Farley, Jr
 [The Book - How To Navigate The Illinois Disability System](files\The_Book.pdf)<br>
 2025 Edition<br>
