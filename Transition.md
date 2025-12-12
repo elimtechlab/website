@@ -11,6 +11,11 @@ img {
 </style>
 # Transition Resource Library
 ---
+### Parent Panel- Residential & Day Programs
+12/10/2025 <br>
+Presented by...<br>
+Hosted by Elim Christian Services <br>
+[https://www.youtube.com/watch?v=wbZSQhZRpck&feature=youtu.be](https://www.youtube.com/watch?v=wbZSQhZRpck&feature=youtu.be) <br>
 
 ### PUNS and Waiver Services
 11/06/2025 <br>
