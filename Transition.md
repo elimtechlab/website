@@ -11,6 +11,14 @@ img {
 </style>
 # Transition Resource Library
 ---
+
+### Helping Hands Employment Services
+12/10/2025 <br>
+Presented by Jim Tabor <br>
+Hosted by Elim Christian Services <br>
+[https://www.youtube.com/watch?v=Ws_g0HI3P5g](https://www.youtube.com/watch?v=Ws_g0HI3P5g) <br>
+[Helping Hands Employement Services - Handout](files\Helping_Hands_Employment_Services_Handout.pdf)<br>
+
 ### Parent Panel- Residential & Day Programs
 12/10/2025 <br>
 Presented by...<br>
