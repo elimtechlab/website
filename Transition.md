@@ -26,7 +26,7 @@ Hosted by Elim Christian Services <br>
 [Helping Hands Employement Services - Handout](files\Helping_Hands_Employment_Services_Handout.pdf)<br>
 
 ### Parent Panel- Residential & Day Programs
-12/10/2025 <br
+12/10/2025 <br>
 Hosted by Elim Christian Services <br>
 [https://www.youtube.com/watch?v=wbZSQhZRpck&feature=youtu.be](https://www.youtube.com/watch?v=wbZSQhZRpck&feature=youtu.be) <br>
 
