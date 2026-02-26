@@ -11,6 +11,11 @@ img {
 </style>
 # Transition Resource Library
 ---
+### Navigating SSI and SSDI Benefits
+02/18/2026 <br>
+Presented by Alexandra Baig <br>
+Hosted by Elim Christian Services <br>
+[https://youtu.be/wbZSQhZRpck](https://youtu.be/wbZSQhZRpck) <br>
 
 ### Helping Hands Employment Services
 12/10/2025 <br>
