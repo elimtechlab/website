@@ -16,7 +16,7 @@ img {
 02/18/2026 <br>
 Presented by Alexandra Baig <br>
 Hosted by Elim Christian Services <br>
-[https://youtu.be/wbZSQhZRpck](https://youtu.be/wbZSQhZRpck) <br>
+[https://youtu.be/UZcKKIu948k](https://youtu.be/UZcKKIu948k) <br>
 
 ### Helping Hands Employment Services
 01/15/2026 <br>
