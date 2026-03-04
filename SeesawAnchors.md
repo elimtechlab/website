@@ -7,67 +7,38 @@ layout: default
 
 # **2025-2026 School Year**
 
-# Week of February 16th
+# Week of March 9th
 
-1. [ES ELA: Shirt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e425fff5-5823-4b21-b7fb-ba92bd1e90af&share_token=zItItUN6SgyauYqByZq7Dw)
-2. [ES ELA: Pants](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cafa5cad-b4b5-4c95-840b-333985dc1624&share_token=1ZFMMCroSOSsfj8wHilirw)
-3. [ES Personal Health & Safety: Conflict Resolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.220e81ec-7eed-4476-ba97-e6945fe2b633&share_token=t5DE3if4TJKtX1VVKILjGw)
-4. [ES Science: Blizzard](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7a1b35f3-28d0-4420-8830-b5deea192427&share_token=2JPEmxQeToWvMIoSjduDfg)
-5. [ES Social Studies: Stock Market Crash](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f3388dba-e55c-48d9-849f-e8f8dc19e1f9&share_token=lyaZf5JtQ8KW6pIk8iREpg)
-6. [MS ELA:Taxi/Uber](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0d7570f4-5a81-4a5a-8e94-8139c728b971&share_token=M_XTDxtyQRmXUdlF1wi41A)
-7. [MS & HS Social Studies: Franklin D. Roosevelt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.109fa1e7-496a-4698-9a03-6285ae566bed&share_token=v5mMSfMLRAiBTcGprfFhiA) 
-8. [MS Personal Health & Safety: Conflict Resolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.611445e1-ca00-4b18-a7f6-fcb12797d27b&share_token=UNopqkerQN-9Oxzm5XmbGg)
-9. [HS ELA: North](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3a9bbe81-6716-47a3-a298-c47ed428ab0d&share_token=uxlN5SMUTtK8KXHmF7R1Hg)
-10. [HS ELA: South](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eea5d12e-67e1-4912-9a20-7225547b15ce&share_token=Gm-_UReMQCGmvqi7a93EgQ)
-11. [HS ELA: North & South](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c3ac1a8a-ea25-48af-a676-98be5b686fa1&share_token=e7oVoOhKSd6Uqg1xzGsvCg)
-12. [HS Science: Blizzard](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.888d2981-2549-43c3-b50f-1d36150cd763&share_token=5KMyhdF6S8CMpiQzVpOuQg)
-13. [HS Personal Health & Safety: Advocating for Myself](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.00f64179-cb60-4555-923e-5dba68df75b3&share_token=qmik_z-ORYyYtUEl3yCBCA)
-14. [ALL Bible: Fruit of the Spirit- Faithfulness](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cde0de2f-cf58-416e-b6b0-597fb79f0f7c&share_token=krXX4OpoQH--El1FayaDmw)
+1. [ES ELA: Bird](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eaa2b87f-38a0-4056-96fe-7c75a0ddce79&share_token=K6cr6_c2TBGRXiZr-tA43w)
+2. [ES ELA: Horse](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.87b4e184-6ffd-4468-a84c-ee9871077e91&share_token=qoq9o9zCQc2FOmzivCIu8Q)
+3. [ES ELA: Cow](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b79acc87-8bb4-4441-8dc4-751fd5b8c62e&share_token=1sTs3RxYQ_WemNumkF3f_g)
+4. [ES Personal Health & Safety: Interest Inventories](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.85d27444-e12f-4ff4-b387-d54805ed7128&share_token=v293zfgATpSmFg1zFw50Bg)
+5. [ES Science: Spring](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.912ddd93-51b8-4429-a735-82427bf913a5&share_token=pNNjGnICS-Cg-uhmAkMnCQ)
+6. [ES Science: Spring-Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.12e0aab1-10fe-4d1f-8a48-768a5c0edd5f&share_token=pv_OWLqsTGqYLekyJymFhw)
+7. [ES Social Studies: World War 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ce245e78-81e9-46c2-9be0-e2661cf4b8a6&share_token=5ZvbgRU5StSjDwx0HaS64A)
+8. [MS ELA: Ticket](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a335ed39-4744-40ad-87d8-c34a3a277fa9&share_token=F909-bBeSBi1qoYRFbrbkQ)
+9. [MS ELA: Map](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cb2c0de5-aec0-42ea-a298-9889627dfa77&share_token=6I9cLtgzTASLIKjwioLBCg)
+10. [MS ELA: Map](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9214d6ec-c92d-4ca0-af4f-b136bfdf54af&share_token=BxSMS-b4RKS96VJoH06x3Q)
+11. [MS & HS Social Studies: Brown vs. Board of Ed](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b5a7b01d-3352-4164-b1ec-94278b182a36&share_token=4ijhNsGjR2-W21EHKKqJOw)
+12. [MS & HS Science: Rivers, Lakes, and Ponds](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.aaf667b5-b27a-4cf6-800d-b76fd2ce53b1&share_token=uACvw-hWR_aKPchKAZr-nw)
+13. [MS & HS Personal Health & Safety: Interest Inventories](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c1f0273a-8373-4dbf-8926-f8de68d2ef19&share_token=AZ6L6rUBQieG50_YgzI7Vg)
+14. [HS ELA: Ramp and Lift](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.374d9574-7e5a-4243-8185-f3f4c48d6658&share_token=vAH-wChhS_izWboW6Vm-FQ)
+15. [ALL BIBLE: Blessed are the Poor](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4694c781-b931-46a9-b179-849bcf95f133&share_token=pxoUOnBRT3ihCA0IKI7zRg)
 
-# Week of February 23rd 
+# Week of March 16th
 
-1. [ES ELA: Sweater](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5f385563-ab7f-41b5-9762-4cde46d5913a&share_token=TnvHVRolQQK_1TWaP6GEVw)
-2. [ES Social Studies: The Great Depression](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.523f7dae-762a-4891-8c6c-3f17fa999edc&share_token=duldib0AT_e238fpvIpxSQ)
-3. [ES & MS Science: Earthquakes](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.61efcdad-e7bb-4173-9e27-077404f30c54&share_token=erDG5Tl6QvGvqYhiko3bwA)
-4. [MS ELA: Street](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.25bfcd63-614a-4d9f-adf4-e69c99e42a9d&share_token=-poJ8opOS8qHtEZpQVjIhg)
-5. [MS & HS Social Studies: Pearl Harbor](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4fdd0716-55e8-4d2e-b9f8-2d3c58103e7d&share_token=mliK8sHTQ_Cu9UvCR0MoHg)
-6. [HS ELA: East & West](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6e28bdb9-ce5d-448d-834d-a0e986760047&share_token=0JGRbxLCRQStGgrj3mntyg)
-7. [HS Personal Health & Safety: What is my IEP?](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f3fb8fe8-8736-49fa-8e43-da7df0f55606&share_token=bh3PjdSwQh6b_UIbw4xOGg)
-8. [HS Science: Earthquake](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d9889b0c-b11f-4f7f-b8cd-7dd6ab77f6a7&share_token=BWnTSgzKQWS6QFJZ3MJdVQ)
-9. [ALL Bible: Fruit of the Spirit- Gentleness](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.49709df5-e87e-4993-96b6-e84c8f99d76b&share_token=lb8P45_WT2uaL8nLMDhyVQ)---
-layout: default
----
-# Seesaw Anchors
----
-
-
-# **2025-2026 School Year**
-
-# Week of February 16th
-
-1. [ES ELA: Shirt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.e425fff5-5823-4b21-b7fb-ba92bd1e90af&share_token=zItItUN6SgyauYqByZq7Dw)
-2. [ES ELA: Pants](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cafa5cad-b4b5-4c95-840b-333985dc1624&share_token=1ZFMMCroSOSsfj8wHilirw)
-3. [ES Personal Health & Safety: Conflict Resolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.220e81ec-7eed-4476-ba97-e6945fe2b633&share_token=t5DE3if4TJKtX1VVKILjGw)
-4. [ES Science: Blizzard](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7a1b35f3-28d0-4420-8830-b5deea192427&share_token=2JPEmxQeToWvMIoSjduDfg)
-5. [ES Social Studies: Stock Market Crash](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f3388dba-e55c-48d9-849f-e8f8dc19e1f9&share_token=lyaZf5JtQ8KW6pIk8iREpg)
-6. [MS ELA:Taxi/Uber](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0d7570f4-5a81-4a5a-8e94-8139c728b971&share_token=M_XTDxtyQRmXUdlF1wi41A)
-7. [MS & HS Social Studies: Franklin D. Roosevelt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.109fa1e7-496a-4698-9a03-6285ae566bed&share_token=v5mMSfMLRAiBTcGprfFhiA) 
-8. [MS Personal Health & Safety: Conflict Resolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.611445e1-ca00-4b18-a7f6-fcb12797d27b&share_token=UNopqkerQN-9Oxzm5XmbGg)
-9. [HS ELA: North](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3a9bbe81-6716-47a3-a298-c47ed428ab0d&share_token=uxlN5SMUTtK8KXHmF7R1Hg)
-10. [HS ELA: South](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eea5d12e-67e1-4912-9a20-7225547b15ce&share_token=Gm-_UReMQCGmvqi7a93EgQ)
-11. [HS ELA: North & South](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c3ac1a8a-ea25-48af-a676-98be5b686fa1&share_token=e7oVoOhKSd6Uqg1xzGsvCg)
-12. [HS Science: Blizzard](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.888d2981-2549-43c3-b50f-1d36150cd763&share_token=5KMyhdF6S8CMpiQzVpOuQg)
-13. [HS Personal Health & Safety: Advocating for Myself](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.00f64179-cb60-4555-923e-5dba68df75b3&share_token=qmik_z-ORYyYtUEl3yCBCA)
-14. [ALL Bible: Fruit of the Spirit- Faithfulness](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cde0de2f-cf58-416e-b6b0-597fb79f0f7c&share_token=krXX4OpoQH--El1FayaDmw)
-
-# Week of February 23rd 
-
-1. [ES ELA: Sweater](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5f385563-ab7f-41b5-9762-4cde46d5913a&share_token=TnvHVRolQQK_1TWaP6GEVw)
-2. [ES Social Studies: The Great Depression](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.523f7dae-762a-4891-8c6c-3f17fa999edc&share_token=duldib0AT_e238fpvIpxSQ)
-3. [ES & MS Science: Earthquakes](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.61efcdad-e7bb-4173-9e27-077404f30c54&share_token=erDG5Tl6QvGvqYhiko3bwA)
-4. [MS ELA: Street](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.25bfcd63-614a-4d9f-adf4-e69c99e42a9d&share_token=-poJ8opOS8qHtEZpQVjIhg)
-5. [MS & HS Social Studies: Pearl Harbor](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4fdd0716-55e8-4d2e-b9f8-2d3c58103e7d&share_token=mliK8sHTQ_Cu9UvCR0MoHg)
-6. [HS ELA: East & West](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6e28bdb9-ce5d-448d-834d-a0e986760047&share_token=0JGRbxLCRQStGgrj3mntyg)
-7. [HS Personal Health & Safety: What is my IEP?](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f3fb8fe8-8736-49fa-8e43-da7df0f55606&share_token=bh3PjdSwQh6b_UIbw4xOGg)
-8. [HS Science: Earthquake](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d9889b0c-b11f-4f7f-b8cd-7dd6ab77f6a7&share_token=BWnTSgzKQWS6QFJZ3MJdVQ)
-9. [ALL Bible: Fruit of the Spirit- Gentleness](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.49709df5-e87e-4993-96b6-e84c8f99d76b&share_token=lb8P45_WT2uaL8nLMDhyVQ)
+1. [ES ELA:Rat](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8dde0119-d285-424c-b0f2-f0e5ce5f28e1&share_token=C2b9P44WR2KER4wgRz6LQg)
+2. [ES ELA: Snake](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a9b62c06-bd05-4044-b58d-faad8c8a33dd&share_token=27Ann__8TJSyuWE63BDqmw)
+3. [ES ELA: Pig](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.794343cb-add9-409d-b4f5-5158550d04f3&share_token=8USEtE2_SdasTQZSaQjZzQ)
+4. [ES ELA: Chicken](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1fef4e57-3883-40ad-a019-1ec29955c6d2&share_token=dpH2uqCYQ8u-laXFmbu38A)
+5. [ES Science: Summer](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1711caf9-9e5a-47dc-94cd-cde03aa24dda&share_token=KF-t3v7dTIuvY9srTnbflw)
+6. [ES Social Studies:Franklin Roosevelt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.109fa1e7-496a-4698-9a03-6285ae566bed&share_token=v5mMSfMLRAiBTcGprfFhiA)
+7. [MS ELA: Bags & Baggage](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0e3ecc9b-5d16-4674-a5c0-59d722861bc6&share_token=6swlKFDzRKSj-YguGqORwA)
+8. [MS Social Studies: Rosa Parks](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b2feb774-2fd7-48de-8c00-04010c4bbab1&share_token=iwhzUP34Q5qM9V5ytDkyDA)
+9. [MS & HS Science: Caves](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6c59618c-353a-4585-af11-b70427804a7e&share_token=ScWx09CzTHiRPlDl8soqDQ)
+10. [MS & HS Science: Caves](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f02e7fb2-e65a-42d5-a839-2513ccfadbc1&share_token=QhTbGc9zRou2pDzsvF3rWA)
+11. [MS & HS Personal Health & Safety: Following a Schedule](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b55d3021-7f9f-466f-af9e-acab3c3963a3&share_token=QjC1dOw0QUOD35GRpkSTIw)
+12. [HS ELA: Lyft, Pace, & Uber](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9834a0bb-7b6f-4c84-a565-259f1cfb1193&share_token=8ZyCdVyMTIGuSANFcjC1Ig)
+13. [HS ELA: Taxi](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0d7570f4-5a81-4a5a-8e94-8139c728b971&share_token=M_XTDxtyQRmXUdlF1wi41A)
+14. [HS Social Studies: The Cold War](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b2eedd50-8908-4530-b9b6-3d9869d75882&share_token=7XWToNkUQ4emSQFlZxxGug)
+15. [ALL BIBLE: Blessed are those who Mourn](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.94527932-ab4b-42dc-ab05-7abf5f5da25b&share_token=iS2MVQCOQ_qQFKOOjFaxnQ)
