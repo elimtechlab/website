@@ -11,11 +11,17 @@ img {
 </style>
 # Transition Resource Library
 ---
+### Special Recreation Programming Options and Information
+04/08/2026 <br>
+Presented by...<br>
+Hosted by Elim Christian Services <br>
+[https://youtu.be/4WsGlmhTZT0](https://youtu.be/4WsGlmhTZT0) <br>
+
 ### Getting on the PUNS List
 03/12/2026 <br>
-Patty O’Brien of Suburban Access <br>
+Presented by Patty O’Brien of Suburban Access <br>
 Hosted by Elim Christian Services <br>
-[]() <br>
+[https://youtu.be/my2cVgYMDnE](https://youtu.be/my2cVgYMDnE) <br>
 
 ### Navigating SSI and SSDI Benefits
 02/18/2026 <br>
