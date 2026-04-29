@@ -11,9 +11,10 @@ img {
 </style>
 # Transition Resource Library
 ---
+
 ### Special Recreation Programming Options and Information
 04/08/2026 <br>
-Presented by...<br>
+Presented by Todd Mallo from Orland Park District, Marina Uher from SWSRA, Emma Kreitz from LWSRA<br>
 Hosted by Elim Christian Services <br>
 [https://youtu.be/4WsGlmhTZT0](https://youtu.be/4WsGlmhTZT0) <br>
 
