@@ -12,7 +12,19 @@ img {
 # Transition Resource Library
 ---
 
-### Special Recreation Programming Options and Information
+### Behavioral Learning - Programs and Services
+05/04/2026 <br>
+Presented by:<br>
+Laura Gonzalez – Director of Transition Services - UCP Seguin of Greater Chicago<br>
+Alison Beauvais-Carris – Founder/Chief Clinical Officer - Behavioral Learning<br>
+Kimberly Phelps – Director of Outpatient Services – Behavioral Learning<br>
+Kayla Warren – Director of Community Programs and Quality Improvement – LARC of Lansing, IL<br>
+Hosted by Elim Christian Services <br>
+[Behavioral Learning - Programs and Services.pdf](files\Behavioral_Learning-Programs_and_Services.pdf)
+
+[https://youtu.be/waA6l5XJtdg](https://youtu.be/waA6l5XJtdg) <br>
+
+### Special Recreation Programming - Options and Information
 04/08/2026 <br>
 Presented by Todd Mallo from Orland Park District, Marina Uher from SWSRA, Emma Kreitz from LWSRA<br>
 Hosted by Elim Christian Services <br>
