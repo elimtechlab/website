@@ -15,6 +15,14 @@ layout: default
 
 [Instructional Minutes & Instructional Materials](https://www.canva.com/design/DAF-8wgr3Yo/aUjGawkcEgFJwdXLrUPQ-Q/edit)
 
+## Data 
+<b>[ NEW ]</b> [Data Collection](\files\Data_Collection.pdf)
+
+### Canva
+<b>[ NEW ]</b> [Using AI and Canva to Create Lessons](\files\Using_AI_and_Canva_to_Create_Lessons.pdf)
+
+[Customize a Newsletter Template in Canva](https://app.tango.us/app/workflow/Customize-a-Newsletter-Template-in-Canva-6465fb171940480198c443b0684bf9dd)
+
 ### Reading A-Z
 [Using Reading A-Z by Sherry](https://www.canva.com/design/DAGKYwVSvgQ/dYa2n0FZKpKIlxmbQZ9d9g/edit)
 
@@ -35,11 +43,6 @@ layout: default
 [Creating Home Learning Codes](https://youtu.be/dm8S3X5PDG4)  
 
 [Pinning Activities to the Top](https://youtu.be/T_PUGhaS1tY)
-
-### Canva
-
-[Customize a Newsletter Template in Canva](https://app.tango.us/app/workflow/Customize-a-Newsletter-Template-in-Canva-6465fb171940480198c443b0684bf9dd)
-
 
 ### Boardmaker
 [Sharing Boardmaker to Seesaw](https://youtu.be/dxH49z9wza0)  
