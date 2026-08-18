@@ -4,6 +4,19 @@ layout: default
 # Staff Training
 ---
 
+### Maximizing Downtime
+[Maximizing Downtime](\files\Maximizing_Downtime.pdf)
+
+### Edmark
+[Edmark Reading Program](https://canva.link/fx5xhoh3ifwi94l)
+
+### Exit Skills
+[Exit Skills Training](https://canva.link/hj9o6fi7ib5tmh9)
+
+[Component Skills](https://canva.link/4725dv354pd094g)
+
+[Embedding Exit Skills](\files\Embedding_Exit_Skills.pdf)
+
 ### Lesson Planning
 [Math](https://www.canva.com/design/DAFtHh7hkDk/2q33eDl3qJLVfK1ExVxMdg/edit)
 
@@ -16,10 +29,10 @@ layout: default
 [Instructional Minutes & Instructional Materials](https://www.canva.com/design/DAF-8wgr3Yo/aUjGawkcEgFJwdXLrUPQ-Q/edit)
 
 ## Data 
-<b>[ NEW ]</b> [Data Collection](\files\Data_Collection.pdf)
+[Data Collection](\files\Data_Collection.pdf)
 
 ### Canva
-<b>[ NEW ]</b> [Using AI and Canva to Create Lessons](\files\Using_AI_and_Canva_to_Create_Lessons.pdf)
+[Using AI and Canva to Create Lessons](\files\Using_AI_and_Canva_to_Create_Lessons.pdf)
 
 [Customize a Newsletter Template in Canva](https://app.tango.us/app/workflow/Customize-a-Newsletter-Template-in-Canva-6465fb171940480198c443b0684bf9dd)
 
@@ -51,8 +64,6 @@ layout: default
 
 ### PowerSchool
 [Taking Attendance](https://youtu.be/6vm_gwdmGGo)
-
----
 
 ## Presentations
 [How to Be a Better Troubleshooter](https://youtu.be/hSEcb6cYW90)  
