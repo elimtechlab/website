@@ -6,22 +6,23 @@ layout: default
 
 | **Website** | **Username** | **Password** |
 | :-- | :-- | :-- | 
-| Help Kidz Learn | elimteachers | 2016Elim |
-| ChooseIt! Maker 3 | ElimCM3 | BigGator$1 |
-| Starfall | kwatanabe@elimcs.org | Elimcs2020! |
-| BrainPOP | elimcs | brainpop |
-| BrainPOP Jr. | elimcs | brainpop |
-| Tumblebooks | ECS | login |
+| [Help Kidz Learn](https://www.helpkidzlearn.com/) | elimteachers | 2016Elim |
+| [Starfall](https://www.starfall.com/) | kwatanabe@elimcs.org | Elimcs2020! |
+| [BrainPOP](https://www.brainpop.com/) | elimcs | brainpop |
+| [BrainPOP Jr.](https://jr.brainpop.com/) | elimcs | brainpop |
+| [Tumblebooks](https://www.tumblebooklibrary.com/) | ECS | login |
 
 <br>
-Elim does not have school-wide logins for the following websites:
-- IXL (some students have their own personal login)
-- ABCYa
 
-Teachers and Therapists have their own personal login information for the following websites:
+Professional staff can use their school email address to access the following:
 - Zoom
 - Boom Learning
 - Seesaw
 - Planbook
 - Boardmaker
 - Powerschool
+- IXL
+
+<br>
+Elim does not have school-wide logins for the following websites:
+- ABCYa
