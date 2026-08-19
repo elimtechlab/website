@@ -1,18 +1,62 @@
 ---
 layout: default
 ---
-# Websites
+# Website Links
 ---
+## Curriculum Hub
+[https://curriculumcenter.org/](https://curriculumcenter.org/)
 
-<a href="../password_redirect.html"><button class="button button2">School-Wide Passwords</button></a>
+
+<a href="../password_redirect.html"><button class="button button2">School-Wide Accounts</button></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<a href="../JobApps.html"><button class="button button2">Job Applications</button></a>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+# Professional Staff Accounts
+
+
+### PowerSchool<br>
+[https://elim.powerschool.com/admin](https://elim.powerschool.com/admin) <br>
+Username: (reach out to the Curriculum Department if you don't have one) <br>
+
+### Embrace IEP
+[https://www.outreachtime.com/](https://www.outreachtime.com/)<br>
+Username: Elim email address
+
+### Boom Learning
+[https://wow.boomlearning.com/](https://wow.boomlearning.com/)<br>
+Username: Elim email address
+
+### Seesaw
+[https://app.seesaw.me/](https://app.seesaw.me/)<br>
+Username: Elim email address
+
+### Planbook
+[https://app.planbook.com/](https://app.planbook.com/)<br>
+Username: Elim email address
+
+### Canva Pro
+[https://www.canva.com/](https://www.canva.com/)<br>
+Username: Sign up with your Elim email address
+
+### Zoom
+[https://zoom.us/](https://zoom.us/)<br>
+Username: Elim email address
+
+### Boardmaker
+[https://www.myboardmaker.com/](https://www.myboardmaker.com/)<br>
+Username: (reach out to the Curriculum Department if you don't have one)
+
+### IXL
+[https://www.ixl.com/](https://www.ixl.com/)<br>
+Username: Elim email address
+
+### Reading A-Z
+[https://www.readinga-z.com/](https://www.ixl.com/)<br>
+Username: Elim email address
+
+# Other Websites
 
 ## Language Arts Games
 CK-12 Foundation - Free Education Activites (K-12th)  
@@ -58,12 +102,6 @@ Monarch Reader - Digital books for beginning readers of all ages
 [https://www.monarchreader.com/](https://www.monarchreader.com/)
 
 ---
-### Embrace IEP
-[https://www.outreachtime.com/](https://www.outreachtime.com/login/)<br>
-
-### PowerSchool
-[https://elim.powerschool.com/admin/](https://elim.powerschool.com/admin/)
-
 ## Classroom
 
 Expenses Receipt<br>
