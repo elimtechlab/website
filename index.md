@@ -20,6 +20,3 @@ Click here to access [THE TEACHER HUB](https://whatisanslp.my.canva.site/so-you-
 <a href="https://whatisanslp.my.canva.site/so-you-are-a-new-teacher-at-elim">
     <img src="files\teacherhub.jpg" alt="The Teacher Hub">
 </a>
-
-
-
