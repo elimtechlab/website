@@ -4,40 +4,27 @@ layout: default
 # Seesaw Anchors
 ---
 
-# **2025-2026 School Year**
 
-# Week of March 9th
+# **2026-2027 School Year**
 
-1. [ES ELA: Bird](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eaa2b87f-38a0-4056-96fe-7c75a0ddce79&share_token=K6cr6_c2TBGRXiZr-tA43w)
-2. [ES ELA: Horse](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.87b4e184-6ffd-4468-a84c-ee9871077e91&share_token=qoq9o9zCQc2FOmzivCIu8Q)
-3. [ES ELA: Cow](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b79acc87-8bb4-4441-8dc4-751fd5b8c62e&share_token=1sTs3RxYQ_WemNumkF3f_g)
-4. [ES Personal Health & Safety: Interest Inventories](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.85d27444-e12f-4ff4-b387-d54805ed7128&share_token=v293zfgATpSmFg1zFw50Bg)
-5. [ES Science: Spring](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.912ddd93-51b8-4429-a735-82427bf913a5&share_token=pNNjGnICS-Cg-uhmAkMnCQ)
-6. [ES Science: Spring-Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.12e0aab1-10fe-4d1f-8a48-768a5c0edd5f&share_token=pv_OWLqsTGqYLekyJymFhw)
-7. [ES Social Studies: World War 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ce245e78-81e9-46c2-9be0-e2661cf4b8a6&share_token=5ZvbgRU5StSjDwx0HaS64A)
-8. [MS ELA: Ticket](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a335ed39-4744-40ad-87d8-c34a3a277fa9&share_token=F909-bBeSBi1qoYRFbrbkQ)
-9. [MS ELA: Map](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cb2c0de5-aec0-42ea-a298-9889627dfa77&share_token=6I9cLtgzTASLIKjwioLBCg)
-10. [MS ELA: Map](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9214d6ec-c92d-4ca0-af4f-b136bfdf54af&share_token=BxSMS-b4RKS96VJoH06x3Q)
-11. [MS & HS Social Studies: Brown vs. Board of Ed](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b5a7b01d-3352-4164-b1ec-94278b182a36&share_token=4ijhNsGjR2-W21EHKKqJOw)
-12. [MS & HS Science: Rivers, Lakes, and Ponds](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.aaf667b5-b27a-4cf6-800d-b76fd2ce53b1&share_token=uACvw-hWR_aKPchKAZr-nw)
-13. [MS & HS Personal Health & Safety: Interest Inventories](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c1f0273a-8373-4dbf-8926-f8de68d2ef19&share_token=AZ6L6rUBQieG50_YgzI7Vg)
-14. [HS ELA: Ramp and Lift](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.374d9574-7e5a-4243-8185-f3f4c48d6658&share_token=vAH-wChhS_izWboW6Vm-FQ)
-15. [ALL BIBLE: Blessed are the Poor](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4694c781-b931-46a9-b179-849bcf95f133&share_token=pxoUOnBRT3ihCA0IKI7zRg)
+# Week of August 31st 
 
-# Week of March 16th
+1. [ES ELA: Teacher](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.403ecdae-8b44-40fc-a7df-23e09448fcb4&share_token=7fOJpPXtRee8DNbcj_rA8g)
+2. [ES ELA: Desk](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.25719dd7-b9e5-4922-ba53-b39a77cbf228&share_token=SE6a6BouSWyub9ouKM1XuA) 
+3. [ES ELA: Pencil](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8abfc72d-7173-46b2-b1ab-04b0618e90c9&share_token=nseAR_yZQQO1KJH6UA9z-g )
+4. [ES Science: Solids](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f346eb93-7035-4ec5-a8a0-10d83895140d&share_token=gky2gdvSQrmGTghq6DGshg)
+5. [ES Personal Health & Safety: Dental Care Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.bb1ede57-5edf-486a-b784-7598a4cba529&share_token=FNkyAdYYS2mSkMB72gmMEw)
+6. [MS ELA: Restroom](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0afa9c49-692b-4acb-8d49-c2d8fcd586b2&share_token=B0zh9F-YS7ODn4akzesIbA)
+7. [MS ELA: Elevator](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0afa9c49-692b-4acb-8d49-c2d8fcd586b2&share_token=B0zh9F-YS7ODn4akzesIbA)
+8. [MS Social Studies: Personal Timelines Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.66169853-6f6a-41df-9c2e-980a7d9f5d33&share_token=621FOjRoSgi9zuhZWzwsAQ )
+9. [MS Social Studies: Personal Timelines Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.dad2dfda-66cc-4a63-a285-f3f602ae102d&share_token=crmGRfQ7TM6_VIc2qt3VLw)
+10. [MS & PS Personal Health & Safety: Dental Care Story](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.dc469d9f-9c57-4dbe-b8a7-eb251d90fbec&share_token=DwEfADmaTamJeeAZfbmFEw)
+11. [MS & PS Personal Health & Safety: Dental Care Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.dc469d9f-9c57-4dbe-b8a7-eb251d90fbec&share_token=DwEfADmaTamJeeAZfbmFEw)
+12. [HS ELA: On](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.252ffc36-0b9f-4914-ba71-8384935f091a&share_token=VM_ke9W8S7uKnu6guikf-A )
+13. [HS ELA: Off](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.33305c97-9227-422c-b508-b1cd703dcd5b&share_token=B267Rx-NQzmQ_OJLBFhWhA)
+14. [HS ELA: In](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4028da2a-a6f6-4d76-ada0-313c9ab92575&share_token=1hhxqfQXQuubNP5Zpd75Tg)
+15. [HS ELA: Out](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6a61c808-bf8c-47da-998e-5ab74f844d03&share_token=_FUizzDRQbWK3MVknEx6GA)
+16. [HS Social Studies: Personal Timelines](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.66169853-6f6a-41df-9c2e-980a7d9f5d33&share_token=621FOjRoSgi9zuhZWzwsAQ)
+17. [HS Social Studies: Personal Timelines Activity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.dad2dfda-66cc-4a63-a285-f3f602ae102d&share_token=crmGRfQ7TM6_VIc2qt3VLw)
+18. [ALL Bible: Joshua](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7dbc90b6-6f08-44c5-8533-c0091c7a4611&share_token=sBjPF93wRqmm05EjoLJGAQ)
 
-1. [ES ELA:Rat](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8dde0119-d285-424c-b0f2-f0e5ce5f28e1&share_token=C2b9P44WR2KER4wgRz6LQg)
-2. [ES ELA: Snake](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a9b62c06-bd05-4044-b58d-faad8c8a33dd&share_token=27Ann__8TJSyuWE63BDqmw)
-3. [ES ELA: Pig](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.794343cb-add9-409d-b4f5-5158550d04f3&share_token=8USEtE2_SdasTQZSaQjZzQ)
-4. [ES ELA: Chicken](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1fef4e57-3883-40ad-a019-1ec29955c6d2&share_token=dpH2uqCYQ8u-laXFmbu38A)
-5. [ES Science: Summer](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.1711caf9-9e5a-47dc-94cd-cde03aa24dda&share_token=KF-t3v7dTIuvY9srTnbflw)
-6. [ES Social Studies:Franklin Roosevelt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.109fa1e7-496a-4698-9a03-6285ae566bed&share_token=v5mMSfMLRAiBTcGprfFhiA)
-7. [MS ELA: Bags & Baggage](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0e3ecc9b-5d16-4674-a5c0-59d722861bc6&share_token=6swlKFDzRKSj-YguGqORwA)
-8. [MS Social Studies: Rosa Parks](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b2feb774-2fd7-48de-8c00-04010c4bbab1&share_token=iwhzUP34Q5qM9V5ytDkyDA)
-9. [MS & HS Science: Caves](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6c59618c-353a-4585-af11-b70427804a7e&share_token=ScWx09CzTHiRPlDl8soqDQ)
-10. [MS & HS Science: Caves](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f02e7fb2-e65a-42d5-a839-2513ccfadbc1&share_token=QhTbGc9zRou2pDzsvF3rWA)
-11. [MS & HS Personal Health & Safety: Following a Schedule](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b55d3021-7f9f-466f-af9e-acab3c3963a3&share_token=QjC1dOw0QUOD35GRpkSTIw)
-12. [HS ELA: Lyft, Pace, & Uber](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9834a0bb-7b6f-4c84-a565-259f1cfb1193&share_token=8ZyCdVyMTIGuSANFcjC1Ig)
-13. [HS ELA: Taxi](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0d7570f4-5a81-4a5a-8e94-8139c728b971&share_token=M_XTDxtyQRmXUdlF1wi41A)
-14. [HS Social Studies: The Cold War](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b2eedd50-8908-4530-b9b6-3d9869d75882&share_token=7XWToNkUQ4emSQFlZxxGug)
-15. [ALL BIBLE: Blessed are those who Mourn](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.94527932-ab4b-42dc-ab05-7abf5f5da25b&share_token=iS2MVQCOQ_qQFKOOjFaxnQ)
