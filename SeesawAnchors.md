@@ -7,18 +7,6 @@ layout: default
 
 # **2026-2027 School Year**
 
-# Week of September 21st 
-
-1. [ES ELA: Cafeteria](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.769a9240-d079-451c-98d8-3c12fe41e279&share_token=KqmAt1y5TCa6KVvZNl45UA)
-2. [ES ELA: Lunch](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.16ce4669-12ce-4f57-aac0-d86d89707ab6&share_token=WMtZ5RtjQ1akViLsA-ThBA)
-3. [ES Science: Buoyancy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5911e73c-760b-4ed8-9a13-9f23fa8f245e&share_token=OLntdaQIR0SuY3OVHQVhww)
-4. [ES Personal Health & Safety: Coping Skills](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.de3965f2-be77-4bc4-b766-6cef29a51690&share_token=wMqAWPXNS9WFjhd4KmkxCA)
-5. [MS & HS ELA: Restroom](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0afa9c49-692b-4acb-8d49-c2d8fcd586b2&share_token=B0zh9F-YS7ODn4akzesIbA)
-6. [MS & HS Science: Melting](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.21468e23-fc0c-49a2-bb69-13b61900bea0&share_token=I3JOZh9wRDms5Q0JfgowXg)
-7. [MS & HS Social Studies: Artifacts](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a8ae0e90-6a55-4a97-ac5d-9d3e3799fd83&share_token=p84rXrEfT_WMnxoYgCn3uw)
-8. [MS & HS Personal Health & Safety: Mental Health](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.78b83a47-2d49-4263-8a44-88c7bbc83e56&share_token=a555Ai0BQdSHCZojFDYCPw)
-9. [ALL Bible: Jacob & Israel](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.028d5695-149b-4971-bb65-8145b9dd3cf3&share_token=c54GiQ0wSk2pQ6mMXrWYGg)
-
 # Week of September 28th 
 
 1. [ES ELA: iPad](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.738d4d5a-1d68-4843-bbd0-f7eaaf8f947b&share_token=J23NkGibQ7GPL1oDA38DXw)
@@ -33,3 +21,17 @@ layout: default
 10. [HS ELA: Boys](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c65af113-8940-4084-8288-2a11716fb3bf&share_token=AE2x4RS-Q0agzrm-vmqPEw)
 11. [HS ELA: Girls](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f597f63a-cb0e-4326-a5f0-cc362f294b20&share_token=AO16Vg_UTJGKUiuNie4leA)
 12. [ALL Bible: Joseph & His Brothers](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4a854def-8f72-46d6-aa07-2e0f9b6168cc&share_token=xupWk4WGSWGk2RQ_csyHSw)
+
+# Week of October 5th 
+
+1. [ES ELA: Red](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.6bd2cfeb-3f61-428e-8834-14d248eba97e&share_token=1PGlBxmMSVSluW4g5AJFng)
+2. [ES ELA: Yellow Part 1](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c30ab61e-1031-4165-b817-5c1fe4fccc44&share_token=fK-jdQefRFy3Imic0njMqA)
+3. [ES ELA: Yellow Part 2](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c4fb08c5-0573-4b1b-8dfe-43e749a40fb8&share_token=0w5vpdt_RaWSZI7GGyrMEg)
+4. [ES ELA: Orange](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eee8dbb5-af31-4d58-9462-bc7edf8303e6&share_token=TG6NoMlnT-eQxYAn1_GuMQ)
+5. [ES Science: Measuring Liquids](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.3b99ab98-0e1c-4d5d-a510-c807fa777287&share_token=QhAcvsoESE-VvV5NYI7D9Q)
+6. [ES Social Studies: Maps & Globes](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0f8fff4e-c7c5-4ba9-adad-f425a4706fd0&share_token=b_r-23U3S_ePHT_CgMmNCw)
+7. [MS & HS ELA: Grocery Store Names](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c9b1e919-9466-4c65-9183-e8b6fa6b3d57&share_token=KMmCKWqXS-6GRhbw8EZsuw)
+8. [MS & HS Science: Evaporation](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.008b079f-4087-4267-bedb-62079739a1ae&share_token=OxuWXzvCTVKpA4XJQDDpSw)
+9. [MS & HS Social Studies: Dispersion of the People at Babel](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c47e5b97-1ffa-4b79-919b-fda8f20adf55&share_token=sqox2m-5S1KrnQKOMrHfLg)
+10. [MS & HS Personal Health & Safety: Stages of Life-Newborn](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c8043d8f-b2d2-4a5a-bc39-aa73fef1b2d6&share_token=HbTca64SRqOektJjkXQGXA)
+11. [ALL Bible: Joseph & Pharoah](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.db450346-2b6c-4e90-b2a3-0a18c4f44685&share_token=cT-6q6xfQ7-l95Rb8gsWnQ)
