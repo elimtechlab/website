@@ -25,7 +25,7 @@ If you have any questions about these data sheets, or need a more specific sheet
 [PDF](../forms/Types_of_IEP_Meetings.pdf)
 
 <b>Elim Data Collection Form</b><br>
-[Doc](../files/Elim_Data_Collection_Form.doc)
+[Doc](../files/Elim_Data_Collection_Form.docx)
 
 <b>Frequency Data Sheets</b><br>
 [Docx](../files/Frequency_Data_Sheet.docx)
