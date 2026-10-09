@@ -9,7 +9,7 @@ Please click below to be redirected to The Print Shop.
 ---->
 
 # Quick Links
-<a href="files\Blank Student Progress Review Team Notes 26.27.docx"><button class="button button2">Progress Review Form/button></a>
+<a href="files\Blank Student Progress Review Team Notes 26.27.docx"><button class="button button2">Progress Review Notes</button></a>
 <a href="https://www.cognitoforms.com/ElimChristianServices/ElimPurchaseOrder"><button class="button button2">Purchase Order</button></a>
 <a href="https://www.cognitoforms.com/ElimChristianServices/TeachersPayTeachersRequest"><button class="button button2">TPT Request</button></a>
 <!-- <a href="https://www.cognitoforms.com/elimchristianservices/_20252026elearningplan/publish"><button class="button button2">E-Learning Plan</button></a> -->
