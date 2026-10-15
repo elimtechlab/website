@@ -20,5 +20,3 @@ Please click below to be redirected to The Print Shop.
 Click here to access [THE TEACHER HUB](https://whatisanslp.my.canva.site/so-you-are-a-new-teacher-at-elim)
 <a href="https://whatisanslp.my.canva.site/so-you-are-a-new-teacher-at-elim">
     <img src="files\teacherhub.jpg" alt="The Teacher Hub">
-    <a href="https://www.cognitoforms.com/ElimChristianServices/ElimPurchaseOrder"><button class="button button2">Purchase Order</button></a>
-</a>
