@@ -4,22 +4,7 @@ layout: default
 # Seesaw Anchors
 ---
 
-
 # **2026-2027 School Year**
-
-
-# Week of November 16th
-
-1. [ES ELA: Oval](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d510e304-faed-4ce6-a9d7-8ad4c23c2115&share_token=bP3d4YlKQ5u8IcVjDL9FfQ)
-2. [ES ELA: Heart](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.09c9340e-7671-4a8b-9d9d-5f2f7266a405&share_token=l3KalstyTFKSGQUFJUdmLw)
-3. [ELA Science: Liquid](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.41ad6992-60b1-45ed-bc19-1c4a2ec38158&share_token=GBGuVrbgSqK85gI_ynoXlg)
-4. [ES Social Studies: Australia](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.703ce5d6-e0b4-49c3-83c9-b5b416b6722b&share_token=7J-unxPJSciV0VxYyKZkmw) 
-5. [MS ELA: Pop Names](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.bec43196-a8e5-437f-985b-29688046fcc6&share_token=IOEXqetpQmOzsEwdZWmByg)
-6. [ES & MS Social Studies: Iron Age](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.d277f173-9268-4168-a2ce-85dc31103eb2&share_token=hq_-FgJ-QB29nUZLOvn4jA)
-7. [HS ELA: Small, Medium, & Large](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.cbe6f027-933b-4b98-be59-a6c506a16a40&share_token=-bFDI9loQM26QMN8KyRj6A)
-8. [HS Science: Make Ooblek](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.9ccaf281-aff4-48e7-ab96-62c6ef87e51b&share_token=Rc2jcudBRvCeoASTvYJweg)
-9. [HS Personal Health & Safety: Conflict Resolution](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.611445e1-ca00-4b18-a7f6-fcb12797d27b&share_token=UNopqkerQN-9Oxzm5XmbGg)
-10. [ALL Bible: Elijah](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b1caeef1-c406-49e6-b9b9-3a7b4790b61d&share_token=nlfUTmZcRSWmoaRW7jXy0w)
 
 # Week of November 23rd 
 
@@ -33,3 +18,33 @@ layout: default
 8. [HS ELA: Order Here, Pay Here, Pick Up](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a24e90a2-1d02-4cab-8f43-2df7d48f948d&share_token=5_zoNqU4SDGyCaZ-tyAWnw)
 9. [HS Science: Dancing Raisins Experiment](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.c1e953dc-6c4f-4160-b8f0-41c010d08197&share_token=YjBgPWbNSRq6f72nJGWHfA)
 10. [ALL Bible: Elisha](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.191967e9-067d-4ea2-81aa-af145c029256&share_token=muny4D38TNW3MRLqBKT_CQ)
+
+# Week of November 30th 
+
+1. [ES ELA: One](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ad76874b-0944-4664-88da-3ffe98e8e319&share_token=tT4h6QpFTXa-rigmeKOh8A)
+2. [ES ELA: Two](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8430c59a-2419-4aff-8d48-8983812c40ee&share_token=kkrCwdz0Sb282Y15Ne9Qkw)
+3. [ES ELA: Three](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4f17c5fa-6a89-4e8d-9593-b424342c2cf6&share_token=B1x5vihOSWqNx_hkVdOsBA)
+4. [ES Social Studies: Oceans of the World](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.daa18eb0-c23c-47d8-9c50-91dce60c98a3&share_token=jnlGQ2heRpG22GTPSUAOuQ)
+5. [MS ELA: Order Here, Pay Here, Pick Up](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.a24e90a2-1d02-4cab-8f43-2df7d48f948d&share_token=5_zoNqU4SDGyCaZ-tyAWnw)
+6. [MS Science: Magnetism](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.52d79357-db20-4e63-b4a4-fa35c23fd6b8&share_token=bP0vWUVzTW-Oi-VfeGg8Sw)
+7. [MS & HS Personal Health & Safety: Cyber Safety](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.5f61464b-5ddc-41ea-b64b-a37f0fbf080b&share_token=ZSAXHOakRECmuPD3N98bGA)
+8. [HS ELA: Cashier](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.30059685-5b92-4c3f-bfd4-995f5ef67c40&share_token=OoeF1Aw0QRuIA3YG-i9_eQ)
+9. [HS Science: Invisible Ink Experiment](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b12376b6-06c6-49d9-a720-17eb185af009&share_token=C4bMEkCvT7-rKQ1N4041kA)
+10. [ALL Bible: Malachi](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f180da76-2ddd-4091-920e-cf37b9910174&share_token=kizuQPvFRGeQoW0_421bJA)
+
+# Week of December 7th 
+
+1. [ES ELA: Four](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7b318583-9f4d-4b00-961c-3c8312611019&share_token=pjxx3BWVR-SI37vo9F0e6w)
+2. [ES ELA: Five](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.0fbfd2db-ba6c-4df1-b885-d53df6e0c2dc&share_token=Db7JbdygRp20tc-6U2QWxQ)
+3. [ES ELA: Six](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8060c928-f701-4ae3-95d6-07fa0b7d43ee&share_token=tGL3GuaHT-qN9E0qz8PKCw)
+4. [ES ELA: Seven](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b87c5ac4-33de-483c-9aec-ca69bc500b2f&share_token=JSaD2DPYSD6KbkCESq3Jvg)
+5. [ES Science: Renewable vs Non-Renewable Energy](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.126f9483-09a6-400a-9b83-7a9b22423174&share_token=LNqojetITMikftDz_SYL5Q)
+6. [ES Social Studies: Timelines](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.66169853-6f6a-41df-9c2e-980a7d9f5d33&share_token=621FOjRoSgi9zuhZWzwsAQ)
+7. [Personal Health & Safety: Erin's Law](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.ea548991-b32e-4f6b-8f02-89167ce123f4&share_token=1nPoMCLCTa-6IlvMXjHZUQ)
+8. [MS ELA: Concert](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.b13ef0d5-419d-4149-b417-f07d3dc095de&share_token=WYPSUCaKR9W6o_rZld1H9g)
+9. [MS ELA: Gym](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.f2e4c51c-9546-48ae-b0eb-680022b4e884&share_token=3KGFDcHPTz-wCLRB5MPEXA)
+10. [MS & HS Science: Gravity](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.86676dd3-add5-48e8-91d3-f2526a63308c&share_token=f8y0ke2iSuOU5XdjcE-iiw)
+11. [MS & HS Social Studies: Ancient Egypt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.7b7e5153-a8b9-44a4-a20e-5605d11d42a7&share_token=MvLfntaLRnWJoIfy8gsrxQ)
+12. [MS & HS Social Studies: Ancient Egypt](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.eef5d6a7-9b1d-4e07-a603-20de4fbe4ac3&share_token=ikne1hMwQECcwovUDaWWOw)
+13. [HS ELA: Zoo](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.8a607b1f-466b-4b9a-8d95-4fde38fe7149&share_token=A9wdBpRVQc-E6X_QJQsPQg)
+14. [ALL Bible: Namaan](https://app.seesaw.me/pages/shared_activity?prompt_id=prompt.4164ce0b-ad38-4d1f-b174-3bf975a5e91b&share_token=z8qOkCWzRmKhrMls03RncA)
